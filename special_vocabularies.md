@@ -1761,13 +1761,12 @@
 
 ## Exercise 158.
 
-- invade, invado, -ere, -vasi, -vasum
-- (in acc.).
+- invade, invado, -ere, -vasi, -vasum (in acc.).
 - return, reditus, -us, m.
 
 ## Exercise 159.
 
-- peasant, agricola, 1.
+- peasant, agricola, m.
 - vineyard, vinetum.
 - digup, effodio, -ere, -fodi, -fossum.
 - deceive, decipio, fallo.
@@ -1776,26 +1775,16 @@
 - regret, me paenitet, gen.
 - vine, vitis, -is, f.
 - excellent, egregius.
-- disobey, disregard, negligo, -ere,
-- -lexi, -lectum.
+- disobey, disregard, negligo, -ere, -lexi, -lectum.
 
 ## Exercise 160.
 
-- because, quod, quia.
-- [Use quia for actual cause only,
-- and therefore with Ind., except
-- in Indirect Statement.]
-- since, quoniam, quando, quum.
-- [quum aiways with Subj.]
-- on the ground that, for the reason
-- that, propterea quod.
-- this being so, in this state of
-- affairs, quae quum ita sint,
-- essent.
-- rejoice, be glad, gaudeo, -ere,
-- gavisus (quod).
-- it is for the good of, ex usu est,
-- usui est, dat.
+- because, quod, quia. [Use quia for actual cause only, and therefore with Ind., except in Indirect Statement.]
+- since, quoniam, quando, quum. [quum aiways with Subj.]
+- on the ground that, for the reason that, propterea quod.
+- this being so, in this state of affairs, quae quum ita sint, essent.
+- rejoice, be glad, gaudeo, -ere, gavisus (quod).
+- it is for the good of, ex usu est, usui est, dat.
 - condemn todeath, capitis damno, I.
 
 ## Exercise 161.
@@ -1813,27 +1802,23 @@
 - be disliked by, displiceo, dat.
 - pride, superbia.
 - equal, par, paris.
-- chariot, currus, -us, 1/.
+- chariot, currus, -us, m.
 - white, albus.
 - sacred, sacer, -ra, -rum.
 - Jupiter, Juppiter, Jovis.
 - finally, postremo, denique.
 - spoils, spolia, n. pl.
 - Apollo, Apollo, -inis.
-- toomuch, nimius, nimis (withgen.).
+- too much, nimius, nimis (with gen.).
 
 ## Exercise 163.
 
 - contrary to, contra.
-- be brought to trial, put on trial,
-- reus sum.
-- law of nations, international law,
-- jus gentium.
-- oppress, opprimo, -ere, -pressi,
-- -pressum.
+- be brought to trial, put on trial, reus sum.
+- law of nations, international law, jus gentium.
+- oppress, opprimo, -ere, -pressi, -pressum.
 - unjust, injustus.
-- any, adj. in negative sentences,
-- ullus.
+- any, adj. in negative sentences, ullus.
 - govern, rego.
 
 ## Exercise 164.
@@ -1842,7 +1827,7 @@
 - oracle, oraculum.
 - untouched, integer, -ra, -rum.
 - protect, servo, 1.
-- gulf, sinus, -us, 17.
+- gulf, sinus, -us, m.
 - except, praeter.
 - holy, sacer, -cra, -crum.
 
@@ -1851,21 +1836,18 @@
 - plague, pestis, pestilentia.
 - survive, supersum.
 - set sail, navem solvo.
-- meet with, obtain, nanciscor, -i,
-- nactus.
+- meet with, obtain, nanciscor, -i, nactus.
 - favourable, secundus.
 - west, occidens.
 - towards, ad.
 
 ## Exercise 166.
 
-- gaze at, specto, 1.
+- gaze at, specto, I.
 - warrior, juvenis.
-- each of two, uterque [each army=
-- terque exercitus].
+- each of two, uterque [each army = uterque exercitus].
 - one ... other (of two), alter ... alter.
-- choose, deligo, -ere, -legi, -lec-
-- tum.
+- choose, deligo, -ere, -legi, -lectum.
 - prevail, supero, I.
 - spear, hasta.
 - slip, labor.
@@ -1881,55 +1863,40 @@
 - surprise, opprimo.
 - in front, a fronte.
 - waggon, plaustrum.
-- artillery, tormenta, n1. pl .; ballistae.
+- artillery, tormenta, n. pl.; ballistae.
 
 ## Exercise 168.
 
-- Verbs and phrases to be followed by
-- quin.
-- 
+*Verbs and phrases to be followed by quin.*
 - non dubito quin.
 - non est dubium quin.
 - quis dubitat quin ? (virtual neg.).
-- fieri non potest quin, it is im-
-- possible that ... not.
-- facere non possum quin, I cannot
-- help ....
-- minimum abest quin, be within a
-- very little of (always impersonal).
-- nihil praetermitto quin, leave no-
-- thing undone to.
-- nemo est quin sciat, there is nobody
-- who does not know; everybody
-- knows ; all the world knows.
-- 
+- fieri non potest quin, it is impossible that ... not.
+- facere non possum quin, I cannot help ....
+- minimum abest quin, be within a very little of (always impersonal).
+- nihil praetermitto quin, leave nothing undone to.
+- nemo est quin sciat, there is nobody who does not know; everybody knows ; all the world knows.
+
 - do wrong, pecco, I.
-- be on one's side, faveo, dat .; ab
-- aliquo stare.
+- be on one's side, faveo, dat.; ab aliquo stare.
 - keep word, fidem praesto.
 
 ## Exercise 169.
 
-- birth, race, genus, -eris, ".
-- scorn, contemno, -ere, -tempsi,
-- -temptum.
+- birth, race, genus, -eris, n.
+- scorn, contemno, -ere, -tempsi, -temptum.
 - by force of arms, vi et armis.
 - multitude, plebs, plebis, f.
 
 ## Exercise 170.
 
-- Verbs of hindering and preventing,
-- which may be followed by quo-
-- minus, and when neg. by quin
-- hinder, impedio, acc., obsto, dal.
-- prevent, prohibeo (which prefers
-- Inf.).
+*Verbs of hindering and preventing, which may be followed by quominus, and when neg. by quin*
+- hinder, impedio, acc., obsto, dat.
+- prevent, prohibeo (which prefers Inf.).
 - deter, deterreo.
-- refuse, recuso, I. (also with Inf.
-- in Neg. sentences).
-- it was due to you that ... not, per te
-- stetit quominus.
-- 
+- refuse, recuso, I. (also with Inf. in Neg. sentences).
+- it was due to you that ... not, per te stetit quominus.
+ 
 - Alps, Alpes, pl.
 - weigh anchor, ancoras tollo.
 
@@ -1938,8 +1905,7 @@
 - pass a law, legem jubeo.
 - threat, minae.
 - destroy, deleo.
-- supply, praebeo; acc. of thing,
-- dat. of person.
+- supply, praebeo; acc. of thing, dat. of person.
 - tribune, tribunus (plebis).
 
 ## Exercise 172.
@@ -1958,13 +1924,10 @@
 
 - the salvation of. Cf. Ex. 85.
 - again and again, identidem.
-- with great loss, plurimis amissis,
-- magna strage.
+- with great loss, plurimis amissis, magna strage.
 - offer a prayer to, invoke, precor, I.
-- drown, submergo, -ere, -mersi,
-- -mersum.
-- contrary to expectation, praeter
-- spem, opinionem.
+- drown, submergo, -ere, -mersi, -mersum.
+- contrary to expectation, praeter spem, opinionem.
 - repulse, repello.
 
 ## Exercise 175.
@@ -1983,8 +1946,7 @@
 
 - as many as, tot ... quot.
 - neighbour, neighbouring, vicinus.
-- to the last, ad ultimum, ad ex-
-- tremum.
+- to the last, ad ultimum, ad extremum.
 - shut up, claudo, -ere, -si, -sum.
 - survive, superesse, dat.
 - independence, freedom, libertas.
@@ -1992,49 +1954,42 @@
 ## Exercise 177.
 
 - greet, saluto, I.
-- stretch out, porrigo, -ere, -rexi,
-- -rectum.
+- stretch out, porrigo, -ere, -rexi, -rectum.
 - despatches, litterae.
-- read through, perlego, -legi, -lec-
-- tum.
+- read through, perlego, -legi, -lectum.
 - draw a circle round, circumscribo.
 - red, virga.
 
 ## Exercise 178.
 
-- - shed (tears), effundo.
+- shed (tears), effundo.
 - jealousy, invidia.
 - hatred, odium.
-- -to be most important, maximi
-- interesse (Voc. 109).
+- to be most important, maximi interesse (Voc. 109).
 
 ## Exercise 179.
 
 - elated, elatus.
-- departure, discessus, -us, m .;
-- profectio.
+- departure, discessus, -us, m.; profectio.
 - more. (See Synonyms.)
 - boast, jacto, I.
 - transfer, transfero.
 - land forces, terrestres copiae.
 - make straight for, recto cursu peto.
-- ravage, populor, I .; vasto, I.
-- unconquerable, invincible, invictus.
-- indomitus.
+- ravage, populor, I.; vasto, I.
+- unconquerable, invincible, invictus. indomitus.
 
 ## Exercise 180.
 
 - a cry was raised, clamatum est.
 - reverse, incommodum.
-- give battle to, proelium committere
-- cum.
+- give battle to, proelium committere cum.
 - centre (of army), media acies.
 - wing, ala.
 - on both sides, utrimque.
 - foremost ranks, primi ordines.
-- flank, latus, -eris, .
-- soldier of the line, legionarius
-- miles.
+- flank, latus, -eris, n.
+- soldier of the line, legionarius miles.
 
 ## Exercise 181.
 
@@ -2043,8 +1998,7 @@
 - satisfy, indulgeo, -ere, -si, -tum.
 - aim at, peto.
 - kingship, regnum, regia potestas.
-- deliver a speech before, orationem
-- habere apud.
+- deliver a speech before, orationem habere apud.
 - lessen, diminish, diminuo.
 - iniquitous, (unjust), iniquus.
 
@@ -2052,17 +2006,12 @@
 
 - before, antequam, priusquam.
 - after, postquam.
-- N.B. Ante, prius, post, may be
-- separated from quam by the
-- principal verb and other words.
-- See the last example.
-- 
+*N.B. Ante, prius, post, may be separated from quam by the principal verb and other words. See the last example.*
 - until, dum, donec, quoad.
 - whilst, as long as, donec, quoad.
 - as so n as, simulac.
 - as often as, quoties.
-- since, from the time when, ex quo
-- tempore.
+- since, from the time when, ex quo tempore.
 
 ## Exercise 183.
 
@@ -2076,15 +2025,13 @@
 - finish, complete, perficio.
 - address, contionor apud.
 - take the field, exercitum educo.
-- in close order, confertus, conferto
-- agmine.
+- in close order, confertus, conferto agmine.
 
 ## Exercise 185.
 
 - stand firm, resisto.
 - province, pr vincia.
-- resign the consulship, abire (se
-- -- abdicare) consulatu.
+- resign the consulship, abire (se abdicare) consulatu.
 - field (of battle), acies.
 - give leave, jubeo.
 - adjourn, be dismissed, dimittor.
@@ -2093,10 +2040,9 @@
 
 - armament, classis.
 - prevail upon, persuadeo.
-- result (n.),  ventus.
-- result (vb.), evenio.
+- result (n.),  ventus. result (vb.), evenio.
 - unfortunate, infelix.
-- - fall into confusion, perturbor, I.
+- fall into confusion, perturbor, I.
 - with one another, inter se.
 - darkness, tenebrae,
 - reduce, redigo.
@@ -2121,9 +2067,8 @@
 ## Exercise 190.
 
 - come upon, incido in.
-- cut down, succido, -ere, -cidi,
-- -cisum.
-- without doubt, sine dbio.
+- cut down, succido, -ere, -cidi, -cisum.
+- without doubt, sine dubio.
 - quietly, unobserved, clam.
 - recall, revoco, I.
 - prosper, rem gero prospere.
@@ -2144,52 +2089,45 @@
 
 - raise a siege, desistere obsidione.
 - run short, fail, deficio.
-- 
 - hold out (of provisions), suppeto.
 - harass, lacesso.
-- renew, redintegro, I .; renvo, 1.
+- renew, redintegro, I.; renovo, 1.
 
 ## Exercise 193.
 
-- wander, vagor, I .; erro, I.
+- wander, vagor, I.; erro, I.
 - be annoyed at, taken ill, aegre fero.
 - repay, reddo.
-- without accomplishing anything, re
-- infecta.
+- without accomplishing anything, re infecta.
 - appease, paco, I.
 - take part in, interesse. Cf. Ex. 61.
 - credit, laus, -dis, f.
 - fresh, integer.
 - riot, tamultus, us, t.
 - insult, injuria, contumelia.
-- come to an agreement, consentio,
-- -ire, -sensi, -sensum.
+- come to an agreement, consentio, -ire, -sensi, -sensum.
 - noon, meridies.
 - bring to trial, reum facio.
 
 ## Exercise 194.
 
 - disheartened, metu commotus.
-- defeat, clades, is, f .; incommodum.
-- propose, censeo, - re, censui [acc.
-- and inf. or subj. ].
+- defeat, clades, is, f.; incommodum.
+- propose, censeo, - re, censui [acc. and inf. or subj.].
 - meet with, patior, -i, passus.
 - still, adhuc.
-- possible, translate by facio or fieri
-- p test.
-- western part, pars quae ad occa-
-- sum solis spectat.
+- possible, translate by facio or fieri potest.
+- western part, pars quae ad occasum solis spectat.
 - interior, pars interior.
 
 ## Exercise 195.
 
 - appoint, constituo.
 - fatal, funestus.
-- in despair, re or salute desperata;
-- spe abjecta.
+- in despair, re or salute desperata; spe abjecta.
 - for this purpose, ad hoc.
 - in two divisions, bipartito.
-- red, r ber, -bra, -brum.
+- red, ruber, -bra, -brum.
 - poison, venenum.
 - Syracuse, Syracusae.
 
@@ -2197,16 +2135,13 @@
 
 - obstacle, difficultas.
 - surmount, supero, I.
-- - so signally, tanta strage.
-- ambuscade, insidiae. Inthelastsen-
-- tence use ex insidiis invadere.
-- open fight, pitched battle, justum
-- proelium, acies.
+- so signally, tanta strage.
+- ambuscade, insidiae. In the last sentence use ex insidiis invadere.
+- open fight, pitched battle, justum proelium, acies.
 - in the guise of, more.
 - warning, exemplo esse. Cf. Ex. 85.
 - make trial of, experior.
-- considering, calculating, ratus
-- (reor).
+- considering, calculating, ratus (reor).
 - rashly, temere, inconsulte.
 - slight, aspernor, I.
 - narrow, angustus, artus.
@@ -2216,24 +2151,17 @@
 - without success, to no purpose,
 - frustra, nequicquam.
 - private citizen, privatus.
-- wholly, altogether [with neg. and
-- virtual neg.], omnino.
+- wholly, altogether [with neg. and virtual neg.], omnino.
 - seat of war, sedes belli.
 - assign, attribuo.
-- control of campaign, chiefcommand,
-- totius belli summa, summa im-
-- perii
-- in triumph, victor. [Triumphus=
-- the triumphal procession of a
-- Roman general.]
+- control of campaign, chief command, totius belli summa, summa imperii
+- in triumph, victor. [Triumphus = the triumphal procession of a Roman general.]
 
 ## Exercise 198.
 
 - dawn, illucescit, illuxit.
 - break down, proruo.
-- seek refuge in, fly for refuge to,
-- confugio ad.
-- 
+- seek refuge in, fly for refuge to, confugio ad.
 - incensed with, iratus, dat.
 - partly, partim.
 - hitherto, adhuc.
@@ -2241,8 +2169,7 @@
 
 ## Exercise 199.
 
-- dream, vb. somnio, I .; somnio
-- video [= to see in a dream].
+- dream, vb. somnio, I .; somnio video [= to see in a dream].
 - dream, n. somnium.
 - egg, ovum.
 - hang, intr. pendeo.
@@ -2250,16 +2177,14 @@
 - mean, indicate, significo, I.
 - bed, cubile, n.
 - dig, fodio.
-- I for my part, equidem [use only
-- with ist pers. sing.].
+- I for my part, equidem [use only with ist pers. sing.].
 - be vexed, aegre or moleste fero.
 
 ## Exercise 200.
 
 - charge, crimen, -nis, n.
 - prosperity, advantage, commodum.
-- to the best of his ability, pro virili
-- parte.
+- to the best of his ability, pro virili parte.
 - devotion, studium.
 - desperate, perditus.
 - assume, usurpo, I.
@@ -2269,60 +2194,53 @@
 
 ## Exercise 201.
 
-- fit to, aptus, dignus qui (a con
-- secutive clause).
+- fit to, aptus, dignus qui (a consecutive clause).
 - governor of a province, proconsul.
 - worship, colo.
-- rob, spolio, I .; diripio.
+- rob, spolio, I.; diripio.
 - offend, displiceo, dat.
 - character, m res, pl.
 - commit, admitto.
 - theft, furtum.
 - thief, fur, furis, m.
-- jest, jocus, -i, 171.
+- jest, jocus, -i, m.
 - justify, excuso, I.
-- cup, poclum.
+- cup, poculum.
 - statue, statua.
 - stretch out, extendo, porrigo.
 - benefit, beneficium.
-- now for a long time, jampridem,
-- jamdudum.
+- now for a long time, jampridem, jamdudum.
 - cloak, pallium.
 - military cloak, sagum
 - wear, pass. of induo, vestio.
-- woollen, laneus.
-- wool, lana,
+- woollen, laneus. wool, lana.
 
 ## Exercise 203.
 
 - on foot, pedibus.
-- restrain, moderor, I., dal.
+- restrain, moderor, I., dat.
 - prudent, prudens.
 
 ## Exercise 204.
 
-- mock, irrideo, dal.
-- throw bridge over, pontem facio
-- in, abl.
+- mock, irrideo, dat.
+- throw bridge over, pontem facio in, abl.
 - straight, recto itinere, directo.
-- subdue, subigo, in potestatem
-- redigo.
+- subdue, subigo, in potestatem redigo.
 - none the less, nihilominus.
 - tribute, tributum, vectigal, -alis, n.
 - impose, impono.
 - prosperous, felix.
 - wrong, injuriam facio, dat.
-- revenge oneself on, poenas sumo
-- de; ulciscor, acc.
+- revenge oneself on, poenas sumo de; ulciscor, acc.
 - bribery, ambitus, -us, m.
-- it is no advantage, minime pr dest.
+- it is no advantage, minime prodest.
 
 ## Exercise 205.
 
 - poet, poeta.
 - relieve, sublevo, I.
-- capitol, capit lium.
-- 
+- capitol, capitolium.
 - in former times, antiquitus.
 - capable of, aptus ad.
 - false, falsus.
@@ -2336,10 +2254,9 @@
 - front rank, prima acies.
 - remind, admoneo.
 - bill, rogatio.
-- influence, auct ritas.
+- influence, auctoritas.
 - have influence, valeo.
-- berruleial At , ter cdarrest, comprehendo, -ere, -di,
-- -sum.
+- arrest, comprehendo, -ere, -di, -sum.
 
 ## Exercise 207.
 
@@ -2348,18 +2265,14 @@
 
 ## Exercise 208.
 
-- lose heart, despero, animum de-
-- mitto.
-- fall into hands of, in potestatem,
-- venire.
+- lose heart, despero, animum demitto.
+- fall into hands of, in potestatem, venire.
 - gloriously, (cum) summa laude.
-- inflict ... on someone, aliquem
-- afficere, abl.
+- inflict ... on someone, aliquem afficere, abl.
 - avenger, ultor.
 - perjury, laesa fides.
-- be favourable to, faveo, dai .; sto
-- ab aliquo.
-- violate, violo, J.
+- be favourable to, faveo, dat.; sto ab aliquo.
+- violate, violo, I.
 - be offended at, aegre fero.
 - misery, suffering, dolor.
 
@@ -2368,7 +2281,7 @@
 - impregnable, inexpugnabilis.
 - steep, praeruptus.
 - lines, munitiones, munimenta.
-- siege works,  pera, n. pl.
+- siege works, opera, n. pl.
 
 ## Exercise 210.
 
