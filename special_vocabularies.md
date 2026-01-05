@@ -2285,39 +2285,39 @@
 
 ## Exercise 210.
 
-- marvellous, mirus.
+- marvellous, mīrus.
 - before the consuls, apud consules.
 - condemn, condemno, I; damno, I.
 - acquit, absolvo.
-- loyal, fidelis.
+- loyal, fĭdēlis.
 
 ## Exercise 211.
 
-- go well, proficio.
-- fainthearted, timidus.
+- go well, prōficio.
+- fainthearted, tĭmĭdus.
 - to the death, usque ad mortem.
-- burdensome (cf. Ex, 85), molestus.
-- speech, oratio.
-- confess, confiteor.
-- side (of river), ripa.
+- burdensome (cf. Ex. 85), mŏlestus.
+- speech, ōrātio.
+- confess, confĭteor.
+- side (of river), rīpa.
 
 ## Exercise 212.
 
-- suffer hardship, laboro.
-- bribe, pecunia.
-- philosopher, philosophus.
-- origin,  rigo, -inis, f.
+- suffer hardship, lăbōro.
+- bribe, pĕcūnia.
+- philosopher, phĭlŏsŏphus.
+- origin, ŏrīgo, -ĭnis, f.
 
 ## Exercise 213.
 
 - in my house, apud me.
-- misfortune, malum.
+- misfortune, mălum.
 
 ## Exercise 214.
 
-- fugitive, fugitivus.
-- imagine, reor, duco.
-- really, revera.
+- fugitive, fŭgĭtīvus.
+- imagine, reor, dūco.
+- really, rēvērā.
 - rest, reliqua pars.
 
 ## Exercise 215.
@@ -2325,84 +2325,77 @@
 - ignorance, inscientia.
 - responsible for, auctor.
 - main road, via, certum iter.
-- unmolested, incolumis.
-- on equal terms, aequo Marte,
-- aequa contentione.
-- cliff, rupes, -is, f.
+- unmolested, incŏlŭmis.
+- on equal terms, aequo Marte, aequā contentione.
+- cliff, rūpes, -is, f.
 
 ## Exercise 216.
 
 - named, by name, nomine.
 - particularly, praeter omnes.
 - overthrow, sterno.
-- sight, spectaculum.
-- extraordinary, egregius.
-- crown, corona.
+- sight, spectācŭlum.
+- extraordinary, ēgrĕgius.
+- crown, cŏrōna.
 - fine, mulcto aliquem, abl.
-- expose oneself to, se objcere, dal.,
-- occurro, dat.
-- eagerness, studium.
-- dismayed, perterritus, pavore per-
-- culsus.
-- marvellous, mirus.
+- expose oneself to, se objĭcĕre, dat., occurro, dat.
+- eagerness, stŭdium.
+- dismayed, perterritus, pavore perculsus.
+- marvellous, mīrus.
 
 ## Exercise 217.
 
-- master of the horse, magister
-- equitum.
+- master of the horse, măgister equitum.
 - without the orders of, injussu.
 
 ## Exercise 218.
 
-- cut off, deseco,
-- accustomed, solitus.
-- settlement, colonia.
-- with minds made up, obstinatis
-- animis.
+- cut off, dēsĕco,
+- accustomed, sŏlĭtus.
+- settlement, cŏlōnia.
+- with minds made up, obstĭnātis animis.
 - maimed, saucius.
 
 ## Exercise 219.
 
 - fit out, instruo.
-- rescue, reduco.
-- survivor, superstes, -itis, or verb
-- superesse.
+- rescue, rĕdūco.
+- survivor, sŭperstes, -ĭtis, or verb superesse.
 - break, frango.
-- reduce, redigo.
-- naval, navalis.
-- off, prep. contra.
-- promontory, promontorium.
+- reduce, rĕdĭgo.
+- naval, nāvālis.
+- off, prep. contrā.
+- promontory, prōmontōrium.
 - take on board, in navem excipio.
-- defender, defensor.
-- earn, mereo, mereor.
+- defender, dēfensor.
+- earn, mĕreo, mĕreor.
  
-## Exercise 220.
+ ## Exercise 220.
 
-- holdacommand, imperium obtineo.
-- prove oneself, se praebere.
-- confidence, trust, fides.
-- complete, certus, manifestus.
-- treat, utor.
-- place before, prefer, antepono. Cf.
-- Ex. 61.
-- consent, volo.
-- strict, severus.
-- discipline, disciplina.
-- energy, studium.
-- influence with, auctoritas apud.
+- hold a command, impĕrium obtĭneo.
+- prove oneself, se praebēre.
+- confidence, trust, fĭdes.
+- complete, certus, mănĭfestus.
+- treat, ūtor.
+- place before, prefer, antĕpōno. Cf. Ex. 61.
+- consent, vŏlo.
+- strict, sĕvērus.
+- discipline, disciplīna.
+- energy, stūdium.
+- influence with, auctōritas apud.
 - pitched battle, justum proelium.
-- recover, recipio.
+- recover, rĕcĭpio.
 
 ## Exercise 221.
-- treat, afficio.
-- hospitality, hospitium.
+- treat, affĭcio.
+- hospitality, hospĭtium.
 - host, guest, hospes.
-- everywhere, ubique.
+- everywhere, ŭbīque.
 - raiment, vestis, -is, f.
-- weave, texo, -ere, texui, textum.
-- sumptuous, magnificus, lautus.
-- hold games, ludos celebro, I.
-- stung, commotus, lacessitus.
+- weave, texo, -ĕre, texui, textum.
+- sumptuous, magnĭfĭcus, lautus.
+- hold games, lūdos cĕlĕbro, I.
+- stung, commotus, lăcessītus.
 - provide, praebeo.
 - bestow, dono, I.
 - surpass, supero, I.
@@ -2410,292 +2403,263 @@
 
 ## Exercise 222.
 
-- pacify, paco, I.
-- connected by birth, cognatus,
-- natu conjunctus.
-- claim,  surpo, I.
-- first place, principatus, -us, m.
-- devoid of, nudatus, vacuus.
-- remedy, remedium.
-- 
-- attempt, conatus, or use verb.
-- with the good will of. Use appro-
-- bare.
+- pacify, pāco, I.
+- connected by birth, cognatus, natu conjunctus.
+- claim, ūsurpo, I.
+- first place, princĭpātus, -ūs, m.
+- devoid of, nūdatus, văcuus.
+- remedy, rĕmĕdium.
+- attempt, cōnatus, or use verb.
+- with the good will of. Use apprŏbare.
 - Spain, Hispania.
 
 ## Exercise 223.
 
-- convict of treason, damno majes-
-- tatis.
-- inflict injury, injuriam inferre, dat.
+- convict of treason, damno mājestatis.
+- inflict injury, injūriam inferre, dat.
 - innocent, insons, -tis.
-- quite, satis.
+- quite, sătis.
 
 ## Exercise 224.
 
-- to do one's best to, id agere ut.
-- risk, periclitor, I.
+- to do one's best to, id ăgĕre ut.
+- risk, perīclĭtor, I.
 
 ## Exercise 225.
 
-- remain silent, taceo.
+- remain silent, tăceo.
 - bind (by oath), obstringo.
-- in the presence of, coram.
+- in the presence of, cōram.
 - oath, jusjurandum.
 - disband, dimitto.
-- indignation, ira, dolor.
+- indignation, ira, dŏlor.
 
 ## Exercise 226.
 
 - foreign, externus.
-- observe customs, institutis uti.
-- beresponsible, translate by, "I must
-- give an account," rationem
-- reddo.
-- government, magistratus, ei qui
-- rempublicam administrant.
-- resolutely, obstinate, summa con-
-- stantia.
+- observe customs, instĭtūtis ūti.
+- beresponsible, translate by, "I must give an account," rătionem reddo.
+- government, magistratūs, ei qui rempublicam administrant.
+- resolutely, obstinate, summa constantia.
 
 ## Exercise 227.
 
 - bring to a close, conficio.
 - satisfied, contentus.
-- geniality, comitas.
-- win affection, studium conciliare.
-- luxury, luxus, -us, m1.
-- want, inopia.
-- the result is that, evenit ut.
-- positively, absolutely (with negative
-- words), omnino.
+- geniality, cōmĭtas.
+- win affection, stŭdium concĭliare.
+- luxury, luxus, -ūs, m.
+- want, inŏpia.
+- the result is that, ēvĕnit ut.
+- positively, absolutely (with negative words), omnīno.
 - undertake, suscipio.
 
 ## Exercise 228.
 
-- diminish, diminuo, trans.
-- more numerous, major.
-- come out, prove, evado, -ere, -is,
-- -sum.
-- experience, usus, -us, m., peritia.
+- diminish, dīmĭnuo, trans.
+- more numerous, mājor.
+- come out, prove, ēvādo, -ĕre, -is, -sum.
+- experience, ūsus, -ūs, m., pĕrītia.
 - in close order, conferto agmine.
 - face, obeo, acc.
-- adverse, adversus, iniquus.
-- trouble, labor.
+- adverse, adversus, inīquus.
+- trouble, lăbor.
 
 ## Exercise 229.
 
 - differ, inter se differre.
-- grumble at, queror de, aegre fero.
-- risk one's life, periculum cap tis
-- sbire.
-- crush, opprimo; profligo, I.
-- acquire, acquiro, nanciscor.
+- grumble at, quĕror de, aegrē fero.
+- risk one's life, pĕrīculum căpĭtis sŭbire.
+- crush, opprĭmo; prōflīgo, I.
+- acquire, acquīro, nanciscor.
 
 ## Exercise 230.
 
-- unshaken, immotus.
-- readily, libenter.
+- unshaken, immōtus.
+- readily, lĭbenter.
 - .two-thirds, duae partes.
 - inspire, injicio aliquid alicui.
-- enthusiasm, stdium.
-- the cause was lost. Use actum est
-- de.
+- enthusiasm, stŭdium.
+- the cause was lost. Use actum est de.
 - display, praesto.
-- `consecrate, voveo.
+- consecrate, vŏveo.
 - desert, deficio.
 - grant, do, mando, I., trado.
 
 ## Exercise 231.
 
-- behave, se gerere.
+- behave, se gĕrĕre.
 - reward, praemio afficio.
 - depend on, ponitur in.
-- 
-- foresee, pr video.
-- his object was, id egit ut.
-- be devoted to, studeo, dat.
+- foresee, prōvĭdeo.
+- his object was, id ēgit ut.
+- be devoted to, stŭdeo, dat.
 - affairs of state, res publicae.
 - Set an example. (See Ex. 85.)
 
 ## Exercise 232.
 
 - rush into, irruo in.
-- foretell, praedico.
-- leisure,  tium.
+- foretell, praedīco.
+- leisure, ōtium.
 - distinguished, insignis.
 
 ## Exercise 233.
 
-- at the battle of Zama, pugna
-- Zamae facta.
-- mercenaries, mercenarii milites.
-- contrary to expectation, praeter
-- spem, opinionem.
-- veteran, veteranus.
-- disorderly, tamultuarius.
+- at the battle of Zama, pugna Zamae facta.
+- mercenaries, mercēnārii milites.
+- contrary to expectation, praeter spem, ŏpīnionem.
+- veteran, veterānus.
+- disorderly, tŭmultuārius.
 - rabble, turba.
 
 ## Exercise 234.
 
-- show presence of mind, impavidus
-- esse, se intrepide gerere.
-- explain, expono, edo,
-- cry, clamor.
-- groan, gemitus, -us.
+- show presence of mind, impăvĭdus esse, se intrĕpĭde gerere.
+- explain, expōno, ēdo.
+- cry, clāmor.
+- groan, gĕmĭtus, -ūs.
 - undergo sentence, poenam subeo.
 - crowd round, circumfundor, dat.
-- sufferings, mala, n. pl.
+- sufferings, măla, n. pl.
 
 ## Exercise 235.
 
-- consider, delibero de.
-- silent, tacitus.
+- consider, dēlībĕro de.
+- silent, tăcĭtus.
 - Egypt, Aegyptus, -i, f.
-- empire, imperium.
+- empire, impĕrium.
 
 ## Exercise 236.
 
-- proscribe, proscribo.
-- put out to sea, evehor (in altum).
+- proscribe, proscrībo.
+- put out to sea, ēvĕhor (in altum).
 - adverse, adversus.
-- litter, lectica.
-- stretch out, porrigo.
-- neck, cervices, f. plu.
+- litter, lectīca.
+- stretch out, porrĭgo.
+- neck, cervĭces, f. plu.
 - drive back, repello.
-- considering his critical position, ut
-- in tanto discrimine.
+- considering his critical position, ut in tanto discrimine.
 
 ## Exercise 237.
 
-- be under protection, fidem sequor.
+- be under protection, fĭdem sequor.
 
 ## Exercise 239.
 
-- enquire, hold enquiry about,
-- quaestionem habeo de.
+- enquire, hold enquiry about, quaestionem habeo de.
 - wrong, injuria.
 
 ## Exercise 240.
 
-- humour, m rem gero, dat.
-- freedman, libertus, -i.
+- humour, mōrem gero, dat.
+- freedman, lībertus, -i.
  
 ## Exercise 241.
 
-- regiment, cohors.
-- (raw) recruit, tiro, -onis.
-- Po, Padus, -i, 111.
-- flower (of army), r bur, -oris, n.
+- regiment, cŏhors.
+- (raw) recruit, tīro, -ōnis.
+- Po, Pădus, -i, 111.
+- flower (of army), rōbur, -ŏris, n.
 
 ## Exercise 242.
 
 - deaf, surdus, auribus captus.
-- dishonour, disgrace, dedecoro, I;
-- dedecori esse.
-- regret, depl ro, I.
-- change, muto, I.
+- dishonour, disgrace, dēdĕcŏro, I;- dēdĕcŏri esse.
+- regret, dēplōro, I.
+- change, mūto, I.
 - temper, animus.
-- former days, tempus prius, su-
-- perius.
+- former days, tempus prius, sŭpĕrius.
   
 ## Exercise 243.
 
-- drag down, detraho.
-- orator, orator.
-- continue a war, bellum duco, pro-
-- duco.
-- infringe upon, deminuo.
-- serve as soldier, stipendia mereo
-- (stipendium=soldier's pay).
-- 
-- agree upon, fix, constituo.
-- refer, refero.
-- reject, rejicio, respuo.
+- drag down, dētrăho.
+- orator, ōrātor.
+- continue a war, bellum dūco, produco.
+- infringe upon, dēmĭnuo.
+- serve as soldier, stīpendia mĕreo (stipendium = soldier's pay).
+- agree upon, fix, constĭtuo.
+- refer, rĕfero.
+- reject, rējicio, respuo.
 - be indignant with, irascor, dat.
 
 ## Exercise 244.
 
-- endurance, patientia.
-- plainly, aperte, plane.
-- approval, consensus, -us, m.
+- endurance, pătientia.
+- plainly, ăpertē, plānē.
+- approval, consensus, -ūs, m.
 - opinion, sententia.
-- express,  do, fero.
+- express, ēdo, fero.
 - run risk of, periculum subeo.
 
 ## Exercise 245.
 
-- depose from tribuneship, abrogare
-- tribunatum, dal.
-- disaffected, mutinous, seditiosus.
+- depose from tribuneship, abrŏgare trĭbūnatum, dat.
+- disaffected, mutinous, sēdĭtiosus.
 - with one consent, consensu.
-- loyal, fidelis.
+- loyal, fĭdēlis.
 - prove false, me infidelem praebeo.
 
 ## Exercise 246.
 
-- declare an enemy to the state,
-- hostem decerno.
-- ask repeatedly, rogito.
-- threatening, minax.
-- senate house, curia.
+- declare an enemy to the state, hostem dēcerno.
+- ask repeatedly, rŏgĭto.
+- threatening, mĭnax.
+- senate house, cūria.
 
 ## Exercise 247.
 
-- in our times, his temporibus,
-- nostra aetate.
-- artisan, artifex, -icis.
+- in our times, his tempŏribus, nostra aetate.
+- artisan, artĭfex, -ĭcis.
 - pile up, congero.
-- want (be without), careo, abl.
-- bloodshed, cruor, -oris, 1.
-- every year, quotannis.
+- want (be without), căreo, abl.
+- bloodshed, cruor, -ōris, 1.
+- every year, quŏtannis.
 - senators, patres.
 - carry (a law), fero.
 
 ## Exercise 248.
 
-- gloomy, tristis, funestus.
-- utterly rout, profligo, I.
+- gloomy, tristis, fūnestus.
+- utterly rout, prōflīgo, I.
 - infirm, infirmus, invalidus.
 
 ## Exercise 249.
 
 - decisive, haud anceps.
-- be brought to a successful issue,
-- prospere evenire.
-- barren, irritus.
+- be brought to a successful issue, prospĕrē ēvĕnire.
+- barren, irrĭtus.
 - be purchased at cost of, stare, abl.
 - fastness, castellum.
-- dear, carus.
+- dear, cārus.
 
 ## Exercise 250.
 
-- assured, exploratus.
+- assured, explōratus.
 - share with, partior cum.
 - enriched, auctus.
-- equally, aeque, pariter.
+- equally, aeque, părĭter.
 
 ## Exercise 251.
 
-- recently, nuper.
+- recently, nūper.
 - commonly, vulgo.
 - steal, abripio.
 - subject (adj.), subjectus imperio.
 - dear friend, conjunctissimus.
-- office, hon res.
+- office, hŏnōres.
 - involve oneself in, occurro, dat.
-- disgrace, dedecus, -oris, n., igno-
-- minia.
-- tax, vectigal.
+- disgrace, dēdĕcus, -oris, n., ignominia.
+- tax, vectīgal.
 - philosophy, philosophia.
-- cure, medeor, daf., sano, I., acc.
+- cure, mĕdeor, dat., sāno, I., acc.
 
 ## Exercise 252.
 
-- followers, comites.
-- say farewell to, jubeo aliquem
-- valere.
-- last necessity, ultima necessitas.
-- loyalty, fides, f. 5.
+- followers, cŏmites.
+- say farewell to, jubeo aliquem vălere.
+- last necessity, ultima nĕcessitas.
+- loyalty, fĭdes, f. 5.
 - prosperity, res prosperae.
 - adversity, res adversae.
 
@@ -2703,42 +2667,39 @@
 
 - principal officers. (See note, p. 55.)
 - union, consensus.
-- yield (trans.), concedo.
-- 
-- applause, plausus, -iis, m.
-- approve, probo, I.
+- yield (trans.), concēdo.
+- applause, plausus, -ūs, m.
+- approve, prŏbo, I.
 - in battle array, acie instructa.
-- dispute, decerto de.
+- dispute, dēcerto de.
 - perilous moment, discrimen.
 
 ## Exercise 254.
 
-- share, take part in, particeps sum
-- (gen.).
-- sail along, lego, praetervehor.
-- produce, edo.
+- share, take part in, partĭceps sum (gen.).
+- sail along, lĕgo, praetervĕhor.
+- produce, ēdo.
 - hold cheap, parvi facio.
-- let go, dimitto.
-- would that, utinam.
-- (I) Present subj. of future time.
-- (2) Imperfect subj. of present
-- time.
-- (3) Pluperfect subj. of past time.
-- contest, cert men.
+- let go, dīmitto.
+- would that, ŭtĭnam.
+ - (I) Present subj. of future time.
+ - (2) Imperfect subj. of present time.
+ - (3) Pluperfect subj. of past time.
+- contest, certāmen.
 - watch, specto, I.
 
 ## Exercise 255.
 
 - fully, satis.
-- weak (of forces), exiguus.
-- reef, saxa, scopali.
-- success, successus, -us.
-- ride, be at anchor, in ancoris stare.
-- make his way in, se insinuare.
-- rashness, temeritas.
-- dash against, allido, -ere, -si, -sum.
+- weak (of forces), exĭguus.
+- reef, saxa, scŏpŭli.
+- success, successus, -ūs.
+- ride, be at anchor, in ancŏris stare.
+- make his way in, se insĭnuare.
+- rashness, tĕmĕritas.
+- dash against, allīdo, -ĕre, -si, -sum.
 - opposite to, contra, e regione, gen.
-- aghast, obstupefactus.
+- aghast, obstŭpefactus.
 
 ## Exercise 256.
 
@@ -2747,5 +2708,5 @@
 - fortress, castellum.
 - thicket, virgultum.
 - bloody, cruentus.
-- to be in a blaze, ardere.
-- wigwam, casa.
+- to be in a blaze, ardēre.
+- wigwam, căsa.
