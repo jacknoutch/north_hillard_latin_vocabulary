@@ -94,52 +94,52 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 ## Exercise 7.
 
 - enough, sătis.
-- snow, nix, nivis, f.
-- set out, proficiscor, i, profectus.
-- easily, facile.
-- tree, arbor, -oris, f.
-- fall, cădo, ere, cecidi, cāsum.
-- lie, jaceo, -ere, jăcui.
-- return, rĕdeo, ire, -ii, -Itum.
+- snow, nix, nĭvis, f.
+- set out, prŏficiscor, i, profectus.
+- easily, făcĭle.
+- tree, arbor, -ŏris, f.
+- fall, cădo, ĕre, cĕcĭdi, cāsum.
+- lie, jăceo, -ēre, jăcui.
+- return, rĕdeo, ire, -ii, -ĭtum.
 - courage, virtus, tūtis, f.
 - climb, ascendo, -ĕre, -di, -sum.
-- follow, sequor, -i, secūtus.
+- follow, sĕquor, -i, secūtus.
 
 ## Exercise 8.
 
 - arrive, advĕnio, -ire, -vēni, -ventum.
 - full, plēnus.
-- seâ, măre, -is, n.
-- book, liber, -ri, m.
-- fly, fügio, -ĕre, fūgi, fügitum.
+- sea, măre, -is, n.
+- book, lĭber, -ri, m.
+- fly, fŭgio, -ĕre, fūgi, fŭgĭtum.
 - again, rursus.
 - idle, cowardly, ignāvus.
 
 ## Exercise 9.
 
 - leave, relinquo, -ĕre, -līqui, -lictum.
-- home, homewards, acc. of domus, -ūs, f.
+- home, homewards, acc. of dŏmus, -ūs, f.
 
 ## Exercise 10.
 
-- defend, defendo, -ere, -fendi, -fensum.
-- walls, muri, m.; moenia. n. pl.
-- alone, solus.
-- law, lex, legis, f.
-- speak, loquor, i, locūtus.
-- die, morior, -i, mortuus.
-- hunger, fames, -is, f.
-- hurt, laedo, -ere, laesi, laesum.
+- defend, dēfendo, -ĕre, -fendi, -fensum.
+- walls, mūri, m.; moenia. n. pl.
+- alone, sōlus.
+- law, lex, lēgis, f.
+- speak, lŏquor, -i, lŏcūtus.
+- die, mŏrior, -i, mortuus.
+- hunger, fămes, -is, f.
+- hurt, laedo, -ĕre, laesi, laesum.
 
 ## Exercise 11.
 
 - citizen, cīvis, -is.
 - messenger, nuntius, -i.
 - go away, abeo (like eo).
-- cold, frīgus, -oris, n.
-- seem, videor, -ēri, vīsus.
+- cold, frīgus, -ŏris, n.
+- seem, vĭdeor, -ēri, vīsus.
 - ditch, trench, fossa.
-- soldier, miles, -itis.
+- soldier, mīles, -ĭtis.
 
 ## Exercise 12.
 
