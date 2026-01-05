@@ -1,6 +1,6 @@
 # Special Vocabularies
 
-- N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation art distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
+N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation are distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
 
 ## Exercise 2
 
