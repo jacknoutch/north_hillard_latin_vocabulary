@@ -335,7 +335,7 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 9.  Having slept in the house he went away early.
 10. The messenger having returned brought this answer.
 
-## Exercise[28].
+## Exercise 28.
 
 1.  On having the wood we saw the camp of the enemy.
 2.  We departed after saying these words.
