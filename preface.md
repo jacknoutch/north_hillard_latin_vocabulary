@@ -22,3 +22,7 @@ Before beginning this book a boy should be able to translate simple sentences (i
 The thanks of the authors are due to many colleagues at Clifton for suggestions, and especially to the late Mr. E. N. P. Moor, to Mr. W. W. Asquith, and Mr. E. H. C. Smith, for kindness in reading through proofs. They wish to acknowledge also the great assistance given them in making the vocabularies by Mr. R. D. Budworth, of Magdalen College, and Mr. E. G. North, of Keble College, Oxford. It should be mentioned that the book has been used in a privately printed edition at Clifton College during the last two terms, and that the present edition has therefore benefited by the experience thus gained.
 
 CLIFTON COLLEGE.
+
+## FOURTH EDITION
+
+The Vocabularies have been revised and improved, and the Rules for Oratio Obliqua (page 182) have been stated more clearly and fully. A few other small alterations have been made where it seemed advisable.
