@@ -538,6 +538,202 @@ In the following sentences translate only the pronouns in italics :
 11. Cato told _his_ men that _they_ would escape.
 12. Who said _he_ would give me the money?
 
+## Exercise 47 [A].
+
+1. Few men knew that the walls had been taken.
+2. Have you heard that the king's army is advancing ?
+3. He does not believe we shall ever finish the journey.
+4. He says we shall not finish the journey.
+5. Promise that you will not follow me.
+6. I hope to give it you within a few days.
+7. The soldiers cried out that they had never been conquered, and would not now yield.
+8. I pretend to be his friend.
+9. I did not know that he had deccived you.
+10. They said they had not heard about the king's arrival.
+11. We threatened to attack them as they were returning home.
+12. Men say that the citizens are very rich.
+
+## Exercise 48 [A].
+
+1. They informed the general that hostages would be given by all the states.
+2. Our men1 were told2 that the enemy had fortified their camp, and were expecting an attack.
+3. It was reported that the Gauls were close at hand.
+4. The soldiers all declared that they would never leave their leader.
+5. You have promised to come to me in the camp.
+6. They declared that reinforcements had been seen, and would soon arrive.
+7. I know that they promised to come before sunset.
+8. They were so terrified that they did not see that the enemy were charging.
+9. Ambassadors had told the king that war was finished.
+10. They pretended to have told the king about the disaster.
+11. Do not pretend to be wiser than your father.
+
+## Exercise 49 [B].
+
+1. It is said1 that the enemy are at hand.
+2. News was brought that the enemy were at hand.
+3. He was told that the legions would follow as soon as possible.2
+4. It is agreed that the traitors were rightly killed.
+5. Having been told that the city was taken, we retreated.
+6. He promised to give the booty to the soldiers.
+7. He said they had never asked him for money.
+8. You know that they will not return.
+9. The prisoners themselves declared that they were Gauls.
+10. They said they were sure that the camp would be taken.
+
+## Exercise 50 [B].
+
+1. The general perceived that the enemy were about to attack.
+2. It was announced by scouts that reinforcements were coming up.
+3. They said he had not given them the promised reward.
+4. I hope to see you at Rome next year.
+5. Having ascertained that the enemy would soon attack them, they began to retreat.
+6. Having been told of this disaster they declared that they would retreat.
+7. We ourselves noticed that our men wished to yield.
+8. Do you not perceive that we are surrounded by the enemy?
+9. The messengers tell us that the enemy left their camp two days ago.
+10. The ambassadors informed the king that they would give him reinforcements.
+
+## Exercise 51 [A].
+
+An old man used to complain to his wife in these words. He used to say that he went to the fields every day, and returned home in the evening tired with work; but that she sat at home idle. The wife replied that she did not wish to be idle, and promised that she would go to the fields the next day. The husband accordingly stayed at home to prepare the supper, but not being skilled in1 such things he prepared nothing which they could2 eat in the evening; and in the morning he said he would rather work and eat than sleep and be hungry. So he went to the fields himself.
+
+## Exercise 52 [A].
+
+It was told Philip that the Romans were at hand. Crying out that he had been betrayed he ran out into the forum, and sent some men to throw his treasures1 into the sea and others to burn the ships. Men who saw him say he was like a madman.2 He declared that the passes had been purposely abandoned by his generals, and that he would punish the guilty. At the same time he promised to give a large sum of3 money for every Roman killed in his kingdom.
+
+## Exercise 53 [A].
+
+On hearing that4 the Roman general had sent 3000 soldiers to besiege the town, the citizens, whose food was already beginning to fail, were greatly alarmed. So they resolved to send ambassadors to the camp to ask for peace. The Romans answered that this would be given when hostages had been surrendered (all. abs.). The Roman general demanded these before night; but the citizens refused5 to obey the order: they said that they would rather die than accept such a peace. And accordingly the city was blockaded for four months. Then the Romans withdrew to defend their own territories against the Suevi.
+
+## Exercise 54 [B].
+
+At daybreak Leonidas perceived that he had been surrounded by the enemy. Nevertheless, being endowed with great bravery, he resolved to engage in battle and die for his country. Having praised the allies, he sent them all to their homes. Many of the Spartans also he wished to dismiss, but they all said they would never leave their king. At length Leonidas perceived that the enemy were approaching, and drew up his men in line of battle to withstand their attack. They all knew that the enemy's forces were so great that there was no hope of escape; but they fought bravely for many hours, and all to a man were killed.
+
+## Exercise 55 [B].
+
+When Romulus had returned to the Campus Martius to review the army, a great storm having arisen suddenly, he was hidden by so thick a cloud that the citizens could not see him. Nor was he afterwards seen by any mortal. But on the following day a young man, by name Proculus Julius, came to Rome, and said that Romnlus had appeared to him, and had told bim that the gods wished Rome to be the capital of the world. Therefore the Romans perceived that they ought to practise the art of war, and become good soldiers, that 'all men might know that Romulus had spoken the truth
+
+## Exercise 56 [B].
+
+I have many friends, but of them all I think Caius is the cleverest. Once the brother of Caius was accused on account of some offence, and Caius was compelled to give evidence.1 The accusers wished to make him angry, so that he might deny what he had already said. But he knew that they desired this, and gave his evidence without anger. At length one of the accusers said, "Go away, my friend: you are a very clever man." Caius replied that he wished that he could say the same of them, but that he had sworn to tell the truth.
+
+## Exercise 57 [A].
+
+1. How much do you think this horse is worth 1
+2. I bought this book for four denarii.
+3. Do you value liberty highly'
+4. I bought this house at a low price, because Caius
+thought it of no value.
+5. This house cost me 5000 sesterces.
+6. He will sell the horse for 1500 sesterces.
+7. I am selling my farm for a great sum of money.
+8. I do not care a straw for wisdom.
+9. A slave can buy his freedom for a talent.
+10. I think this worth less than that (is worth).
+
+## Exercise 58 [B].
+
+1. Buy a horse for 1250 sesterces.
+2. I value this so greatly that I do not wish to sell it.
+3. This house cost them a very great sum of money.
+4. They set a very high value on virtue.
+5. The victory cost Hannibal many men.
+6. For how many talents will you sell this slave !
+7. How much do fou think the slave is worth !
+8. Value money less and virtue more.
+9. He bought the farmn for 9000 sesterces, but now cares nothing for it.
+10. For how much money was he liberated 1
+
+## Exercise 59 [A].
+
+1. I know that they waste too much time.
+2. He had too little confidence in himself.
+3. You both have sufficient boldness.
+4. They do this that the State may not suffer any1 loss.
+5. Three thousand of our best soldiers have perished.
+6. Some of the citizens wished to surrender, others to resist.
+7. Our country, which was once the greatest in the world, still keeps some of its old strength.
+8. Most of you2 have shown more courage than wisdom.
+9. I think there is some good in all men.
+10. Where in the world do you live?
+
+## Exercise 60 [B].
+
+1. Most of our old friends are dead, and some have ceased to be friends.
+2. Caesar has always been considered the greatest of the Romans.
+3. The Gauls have too much eloquence and too little wisdom.
+4. They said that the Helvetii were the greatest nation in the whole of Gaul.
+5. So great a storm arose, that the greater part of the ships were lost.
+6. Some of us have lost all hope.
+7. You, who have some love for your country, ought not to do this.
+8. He was the first to march1 into this part of the country.
+9. I do not consider Crassus the greatest man in our country.
+10. Send to our help the best of your ships.
+
+## Exercise 61 [A].
+
+1. He promised me wealth, but he has no money himself.
+2. He satisfied me, and I think I can trust him again.
+3. The enemy spared those who survived the battle.
+4. Labienus was put in command of the army by Caesar.
+5. A man who is angry with his friends without a cause does himself more harm than them.
+6. This does not seem to me to be a place fit for a camp.
+7. It is difficult to heal such a disease.
+8. My friend Atticus came out of the city to meet me.
+9. Having been put in command of a legion, he took part in many battles in Gaul.
+10. The cavalry pressed the Gauls hard in their flight.1
+11. A thousand Gauls threw themselves in our way, and we scarcely held our ground against them
+12. Caesar waged war against the Gauls, but his victories did not please his enemies at Rome.
+13. They threatened me with death, but I had not injure them.
+
+## Exercise 62 [B],
+
+1. Let us declare war immiediately against the French.
+2. You, who were put in command of the legion, ought to lead us against the enemy.
+3. Did your friend marry Claudia?
+4. It is the king's pleasure to entrust the command to you.
+5. They made war on their countrymen.
+6. The judges threatened the prisoners with tortures.
+7. Caesar exacted many hostages from the Aedui.
+8. The general has sent these troops to our aid.
+9. Who does not prefer freedom to slavery?
+10. I am unwilling to entrust Caius with this money.
+11. Labienus, who was at the head of the sixth legion, resisted the onset of the Gauls.
+12. They are much more devoted to agriculture than to war.
+
+## Exercise 63 [A].
+
+The Greeks valued their liberty so highly that they determined to resist the Persians and never' yield to them. Themistocles was put in command of the Greek forces. By his advice the Greeks trusted to their ships, and fought the Persians2 by sea. The Greek fleet was near the island of Salainis,8 and most of the leaders wished to withdraw from this place, and leave Athens in the hands of the Persians; for they valued their own safety more than the city of Athens. Then Themistocles declared that he and the Athenians4 would sail to Athens with the fleet of two hundred ships. But he was not able to persuade the others
+
+## Exercise 64 [A].
+
+Thereupon5 Themistocles formed the following6 plan to save both Athens and the other States of Greece. He sent a messenger secretly to the king of the Persians to tell him that the Greeks were about to depart. He pointed out that the Persians with their large fleet would easily surround the small forces of the Greeks. There are some who' say that by this advice he wished to please the king, and that he put his own safety before the freedom of his country. But the advice was of great service to Greece; for the ships of the Persians hindered one another,8 and the Greeks routed the enemy.
+
+## Exercise 65 [A].
+
+In the battle which Caesar fought in that place with the Gauls he lost many of his men. For when he had arrived at the top of a hill, and had begun to fortify a camp, suddenly the enemy made an attack. The Romans, who were not standing in line of battle, at first were unable to resist, and took to flight; but afterwards Caesar sent the tenth legion, which he had with him,1 to their aid, and at last the Gauls were driven down to the river. Here, however, they again made a stand, and Caesar himself says that they fought very bravely.
+
+## Exercise 66 [A].
+
+When the king was told of this, he sent an officer2 with 150 soldiers to take the robbers and bring them to him. On arriving at the place where the robbers were, they found that a very strong camp had been made in a wood, and that all the approaches had been blocked by cutting down trees.3 At length, however, the place was storined, and the robbers being taken were put to death but the king pardoned the leader's son, a boy twelve years old.
+
+## Exercise 67 [B].
+
+When the crops began to ripen the general marched through the wood, making use of1 a guide whom his horsemen had taken prisoner. On his march he sent out scouts to discover the enemy's camp. They having returned informed him that the enemy with their wives and children and a large number of cattle had made a camp in the middle of the marsh, and were awaiting his arrival. When he learnt this he advanced so quickly that he reached their camp at midnight; and such was the bravery of the Romans that few of the Germans escaped in safety.
+
+## Exercise 68 [B].
+
+Calenus received a letter from Caesar, who told him that all the harbours and the shore were held by the enemy. On hearing this he recalled all his ships; but one of them, which did not obey liis orders, was captured by Bibulus. All the sailors were put to death by the cruel general; he spared neither man nor boy, and hoped by his cruelty to finish the war more quickly. But Calenus pursued his fleet with 40 ships, and defeated him at Oricum three days after the massacre.
+
+## Exercise 69 [B].
+
+The kings of England and Germany declared war against Philip,1 king of France. They felt sure that they would conquer him, on account of the number2 of their troops, and because they held the French forces in small esteem. Nevertheless he defeated them in a great battle at Bovinium. It was a desperate battle,3 and all showed the greatest bravery. It was observed that a certain priest had killed great numbers? of the enemy. The weapon which he used was an iron club. He had chosen this because he declared that a priest ought not to shed human blood,4 and by this means his enemies died from the violence of the blow.
+
+## Exercise 70 [B].
+
+The French king himself was the bravest knight in his army. He himself was wounded, and his horse was killed under him; but he rose immediately, and led his men again against the enemy. They charged a squadron of Germans, amongst whom was the emperor himself. The Germans, thinking5 that their emperor would be taken prisoner, came up to his help, and opened for him a way of escape. Thereupon Philip remarked to his men that they would only see the emperor's back on that day. After the flight of the emperor the French pursued his army, and defeated them with great slaughter.
+
+
 ## Notes
 
 [^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
