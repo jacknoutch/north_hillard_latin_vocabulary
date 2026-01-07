@@ -1,4 +1,4 @@
-# Special Vocabularies
+<img width="71" height="18" alt="image" src="https://github.com/user-attachments/assets/3613828a-ae0f-42de-be57-441655953bf7" /><img width="71" height="18" alt="image" src="https://github.com/user-attachments/assets/aab5af91-0eb7-4068-91fb-d1065f04e3ac" /># Special Vocabularies
 
 N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation are distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
 
@@ -693,24 +693,24 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 ## Exercise 61.
 
 *The following couples of verbs, one governing Dat. and the other Acc., are especially to be noted:*
-- help, support, succurro,-ere, -curri, -cursum (dat.), subvĕnio (dat.), jŭvo (acc.).
+- help, support, succurro, -ĕre, -curri, -cursum (dat.), subvĕnio (dat.), jŭvo (acc.).
 - please, plăceo (dat.), jŭvo (acc.).
-- advise, suadeo, suasi, suāsum (dat.), moneo (acc.).
+- advise, suādeo, suāsi, suāsum (dat.), mŏneo (acc.).
 - command, impĕro (dat.), jŭbeo, (acc.).
-- hurt, harm, noceo (dat.), laedo, -ĕre, laesi, laesum (acc.).
+- hurt, harm, nŏceo (dat.), laedo, -ĕre, laesi, laesum (acc.).
 - heal, mĕdeor (dat.), sāno, I. (acc.).
-- marry (woman as subject), nubo, -ĕre, nupsi, nuptum (dat.). (man as subject), duco (acc.).
+- marry (woman as subject), nūbo, -ĕre, nupsi, nuptum (dat.). (man as subject), dūco (acc.).
 
 *The following govern the Dative:*
 - believe, trust, credo.
-- obey, pareo.
-- spare,parco,-ĕre, pĕperci, parsum.
-- pardon, ignosco, -ĕre, -nōvi, -notum.
-- envy, invideo.
-- to be angry with, irascor, iratus.
+- obey, pāreo.
+- spare, parco,-ĕre, pĕperci, parsum.
+- pardon, ignosco, -ĕre, -nōvi, -nōtum.
+- envy, invĭdeo.
+- to be angry with, īrascor, iratus.
 - restrain, tempĕro, I.
-- to be devoted to, studeo.
-- favour, făveo, favi, autum.
+- to be devoted to, stŭdeo.
+- favour, făveo, fāvi, fautum.
 
 *Also all compounds of sum:*
 - adesse, to be present at.
@@ -718,35 +718,35 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 - praeesse, to be in command of.
 - deesse, to fail, to be wanting to.
 - superesse, to survive.
-- prödesse (prosum), to be advantageous, of service to,
+- prōdesse (prosum), to be advantageous, of service to,
 
 *And a large number of verbs compounded with preps. and bene, male, salis, re:*
-- satisfy, satisfacio.
+- satisfy, sătisfacio.
 - put in command of, praeficio (acc. and dat.); e.g. Labienum legioni praefecit.
 - entrust, committo, acc. and dat.
-- wage war on, infero bellum.
-- declare war against, bellum indico.
-- to press hard upon, insto, institi.
-- prefer, antepono (acc. and dat.); e.g. anteponit rus urbi.
+- wage war on, infĕro bellum.
+- declare war against, bellum indīco.
+- to press hard upon, insto, instĭti.
+- prefer, antĕpōno (acc. and dat.); e.g. anteponit rus urbi.
 - throw in the way cf, objicio (acc. and dat.).
-- threaten, minor, I. ; e.g. mortem mihi minatur.
+- threaten, mĭnor, I. ; e.g. mortem mihi minatur.
 - hold out against, resist, rĕsisto.
 
-- wealth, riches, divitiae.
+- wealth, riches, dīvĭtiae.
 - cause, causa.
-- disease, morbus, -i, 1/z.
+- disease, morbus, -i, m.
 - meet, obviam eo, dat.
-- enemy (public), hostis. (private), inimīcus.
+- enemy (public), hostis. (private), ĭnĭmīcus.
 
 ## Exercise 62.
 
 - French, Galli.
 - legion, lĕgio.
-- countryien (=fellow-countrymen, fellow-citizens), cives.
-- judge, jūdex, -icis.
-- torture, crciatus, -ūs, m.
+- countrymen (=fellow-countrymen, fellow-citizens), cīves.
+- judge, jūdex, -ĭcis.
+- torture, crŭciatus, -ūs, m.
 - exact from, impero, acc. and dat. ; e.g. naves sociis imperat.
-- slavery, servitus, -tutis, f.
+- slavery, servĭtus, -tūtis, f.
 - agriculture, agricultūra.
 
 ## Exercise 63.
