@@ -1,4 +1,4 @@
-<img width="71" height="18" alt="image" src="https://github.com/user-attachments/assets/3613828a-ae0f-42de-be57-441655953bf7" /><img width="71" height="18" alt="image" src="https://github.com/user-attachments/assets/aab5af91-0eb7-4068-91fb-d1065f04e3ac" /># Special Vocabularies
+# Special Vocabularies
 
 N.B. In these Vocabularies the principal parts of Irregular Verbs are given where they first occur, out are not as a rule repeated afterwards. Verbs of the First Conjugation are distinguished from verbs of the Third by the mark I. Where the construction is not given verbs govern the accusative.
 
