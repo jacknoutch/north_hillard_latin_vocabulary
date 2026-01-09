@@ -751,197 +751,197 @@ N.B. In these Vocabularies the principal parts of Irregular Verbs are given wher
 
 ## Exercise 63.
 
-- advice, consilium.
+- advice, consĭlium.
 - safety, sălus, -ūtis, f.
-- in the hands of, in potestate.
+- in the hands of, in pŏtestate.
 - Persians, Persae.
-- Athenians, Athenienses.
-- the others, the rest, ceteri, reliqui.
-- trust, confido, -ere, confisus sum, dat.
+- Athenians, Athēnienses.
+- the others, the rest, cēteri, rĕlĭqui.
+- trust, confīdo, -ĕre, confīsus sum, dat.
 
 ## Exercise 64.
 
-- form a plan, consilium căpio or ineo.
+- form a plan, consĭlium căpio or ineo.
 - secretly, clam, adv.
 - rout, fundo, -ĕre, fūdi, fūsum.
 
 ## Exercise 65.
 
 - fight a battle, proelium facio.
-- suddenly, subito.
-- take to flight, terga verto, -ere, verti, versum.
-- drive down, depello.
+- suddenly, sŭbĭto.
+- take to flight, terga verto, -ĕre, verti, versum.
+- drive down, dēpello.
 
 ## Exercise 66.
 
-- robber, latro, -onis.
+- robber, latro, -ōnis.
 - strong (of positions, etc.), firmus.
-- approach, ăditus, -ūs, 1l.
-- block, obsideo,-ēre,-sēdi, -sessum.
-- cut down, succido, -ere, -cīdi, -cisum.
+- approach, ădĭtus, -ūs, m.
+- block, obsĭdeo,-ēre,-sēdi, -sessum.
+- cut down, succīdo, -ĕre, -cīdi, -cīsum.
 - storm, take by storm, expugno, I.
 
 ## Exercise 67.
 
 - crop, sĕgĕs, -ĕtis, f.f
-- ripen, maturesco.
-- ripe, ready (early), matūrus.
+- ripen, mātūresco.
+- ripe, ready (early), mātūrus.
 - guide, dux.
-- horseman, ĕques, -Itis.
+- horseman, ĕques, -ĭtis.
 - take prisoner, căpio, captīvum facio.
-- on the march, ex/in itinĕre.
-- discover, find (find what one is looking for), rĕpĕrio, -ire, repperi, repertum. (find by chance), invenio. (find out, learn, of facts), cognosco.
+- on the march, ex/in ĭtĭnĕre.
+- discover, find (find what one is looking for), rĕpĕrio, -ĭre, repperi, repertum. (find by chance), invenio. (find out, learn, of facts), cognosco.
 - children, lībĕri.
 - midnight, mĕdia nox.
-- German, Germanus.
-- in safety, incolŭmis, adj.
-- cattle, pĕcus, -oris, n.
-- marsh, pălus, -udis, f.
+- German, Germānus.
+- in safety, incŏlŭmis, adj.
+- cattle, pĕcus, -ŏris, n.
+- marsh, pălūs, -ūdis, f.
 
 ## Exercise 68.
 
 - letter, litterae, f. pl.
-- hold, occupy, occupo, I.
-- recall, rĕvoco, I.
+- hold, occupy, occŭpo, I.
+- recall, rĕvŏco, I.
 - order, jussum.
 - cruel, saevus, crūdēlis.
-- cruelty, saevitia, crūdēlitas.
+- cruelty, saevĭtia, crūdēlitas.
 - massacre, slaughter, caedes, -is, f.
 - fleet, classis, -is, f.
 
 ## Exercise 69.
 
-- England, Britannia.
-- Englishman, Britannus.
+- England, Brĭtannia.
+- Englishman, Brĭtannus.
 - France, Gallia.
 - Frenchman, Gallus.
-- French (adj.), Gallicus.
+- French (adj.), Gallĭcus.
 - on account of, ob, propter.
-- priest, săcerdōs, -dotis.
-- weapon, telum.
+- priest, săcerdōs, -dōtis.
+- weapon, tēlum.
 - iron (adj.), ferreus.
-- club, clāva, fustis, -is, m,
-- by this means, hoc modo.
+- club, clāva, fustis, -is, m.
+- by this means, hoc mŏdo.
 - shed, effundo,-ĕre, fūdi, -fūsum.
-- blood, sanguis, -Inis, m1.
-- blow, ictus, -us, m1.
-- violence, vis, f.
+- blood, sanguis, -ĭnis, m.
+- blow, ictus, -ūs, m.
+- violence, vīs, f.
 
 ## Exercise 70.
 
-- knight, eques, -itis.
-- wound, vulnero, I.
-- charge, impetum facio in, acc.
-- squadron, ala, turma.
-- emperor, imperator.
-- open (a way, etc.), patefacio.
+- knight, ĕques, -ĭtis.
+- wound, vulnĕro, I.
+- charge, impĕtum facio in, acc.
+- squadron, āla, turma.
+- emperor, imperātor.
+- open (a way, etc.), pătĕfăcio.
 - thereupon, quo facto.
 - back, tergum.
-- rise, surgo, -ere, surrexi, surrectum.
+- rise, surgo, -ĕre, surrexi, surrectum.
  
 ## Exercise 71.
 
-- almost, paene, fere.
-- criminal, guilty, nocens.
-- majority, major pars.
+- almost, paenĕ, fĕrē.
+- criminal, guilty, nŏcens.
+- majority, mājor pars.
  
 ## Exercise 72.
  
 - lie, mentior.
-- press hard, premo, -ere, pressi, pressum.
-- I am hard pressed, laboro, I.
+- press hard, prĕmo, -ĕre, pressi, pressum.
+- I am hard pressed, lăbōro, I.
  
 ## Exercise 73.
  
-- arrow, sagitta.
-- archer, sagittarius, -i.
-- hold one's ground, in loco perstare.
+- arrow, săgitta.
+- archer, săgittārius, -i.
+- hold one's ground, in lŏco perstare.
  
 ## Exercise 74.
 
-- let slip, dimitto.
-- opportunity, occasio, -onis, f., facultas, -tatis, f.
-- despise, sperno, -ere, sprevi, - spretum.
+- let slip, dīmitto.
+- opportunity, occāsio, -ōnis, f., făcultas, -tātis, f.
+- despise, sperno, -ĕre, sprēvi, -sprētum.
  
 ## Exercise 75.
 
-- ask, rogo, two, accusatives ; peto (ab or ex.)
-- pray, beg, oro, I., precor, I.
-- demand, flagito, I., postulo, I., posco, -ere, poposci.
-- urge, exhort, encourage, hortor, I., admoneo.
-- command, impero, I., dat. ; jubeo -ere, jussi, jussum, acc.
-- decree, ordain, edico.
-- advise, moneo, acc. ; suadeo, dat.
-- persuade, persuadeo, dat.
-- forbid, veto, -are, -ui, -itum.
+- ask, rŏgo, two accusatives; pĕto (ab or ex.)
+- pray, beg, ōro, I., prĕcor, I.
+- demand, flāgĭto, I., postŭlo, I., posco, -ĕre, pŏposci.
+- urge, exhort, encourage, hortor, I., admŏneo.
+- command, impĕro, I., dat.; jŭbeo -ēre, jussi, jussum, acc.
+- decree, ordain, ēdīco.
+- advise, mŏneo, acc.; suādeo, dat.
+- persuade, persuādeo, dat.
+- forbid, vĕto, -are, -ui, -itum.
 - street, via.
 - attempt (battle), tempto, I.
-- friendship, amicitia.
-- baggage, impedimenta, n. pl.
-- devote oneself to, studeo, dat.
-- halt, consisto, ere, stiti.
+- friendship, ămīcĭtia.
+- baggage, impĕdīmenta, n. pl.
+- devote oneself to, stŭdeo, dat.
+- halt, consisto, ĕre, stiti.
 - vanguard, primum agmen.
  
 ## Exercise 76.
 
 - bring help, auxilium ferre, dat.
-- serious, severe, gravis.
-- people of town, oppidani.
+- serious, severe, grăvis.
+- people of town, oppĭdāni.
  
 ## Exercise 77.
 
-- break down, rescindo, -ere, -scidi, -scissum.
-- Rhine, Rhenus, -i, m.
-- cavalry, equites, -um:
-- infantry, pedites, -um.
-- caution, carefulness, diligentia.
-- off one's guard, impr vidus, incautus.
-- send back, remitto.
+- break down, rescindo, -ĕre, -scĭdi, -scissum.
+- Rhine, Rhēnus, -i, m.
+- cavalry, ĕquĭtes, -um.
+- infantry, pĕdĭtes, -um.
+- caution, carefulness, dīlĭgentia.
+- off one's guard, imprōvĭdus, incautus.
+- send back, rĕmitto.
 - determination, constantia.
-- lay down, depono, -ere, -posui, -positum,
-- council, concilium.
+- lay down, dēpōno, -ĕre, -pŏsui, -pŏsĭtum.
+- council, concĭlium.
 - thereupon, deinde, quo facto.
-- assemble (intr.), convenio. (tr.) convoco, I.
-- prepare for battle, arma expedio.
+- assemble (intr.), convĕnio. (tr.) convŏco, I.
+- prepare for battle, arma expĕdio.
 
 ## Exercise 78.
 
-- stand for, be a candidate for, peto.
-- consulship, conslatus, -us, m.
+- stand for, be a candidate for, pĕto.
+- consulship, consŭlātus, -ūs, m.
 - to this side of, citra, acc.
-- last, ultimus.
-- prayers, preces, f. pl.
-- plunder, spolio, I., diripio, -ere, -ripui, -reptum.
-- induce, incite, adduco.
-- treasure, thesaurus, -i, m.
-- dangerous, periculosus.
-- remain faithful to Caesar, fidem Caesaris sequor.
-- revolt from, deficio ab.
-- search for, quaero, -ere, quaesivi, quaesitum, peto, ere, -ivi, -itum.
+- last, ultĭmus.
+- prayers, prĕces, f. pl.
+- plunder, spŏlio, I., dīrĭpio, -ĕre, -ripui, -reptum.
+- induce, incite, addūco.
+- treasure, thēsaurus, -i, m.
+- dangerous, pĕrīcŭlosus.
+- remain faithful to Caesar, fĭdem Caesaris sĕquor.
+- revolt from, dēfĭcio ab.
+- search for, quaero, -ĕre, quaesivi, quaesītum, pĕto, ĕre, -ivi, -ītum.
 
 ## Exercise 79.
 
-- on the other side of, ultra, acc.
-- Tiber, Tiberis, -is, m.
-- culivate, colo, -ere, colui, cultum.
-- senate, senatus, -us ; patres.
-- appoint, creo, I., facio.
-- bring (of things), fero. (of persons), duco.
-- displease, displiceo, dat.
-- dictator, dictator, -oris.
-- toga, toga.
+- on the other side of, ultrā, acc.
+- Tiber, Tĭbĕris, -is, m.
+- culivate, colo, -ĕre, cŏlui, cultum.
+- senate, sĕnātus, -ūs; patres.
+- appoint, creo, I., făcio.
+- bring (of things), fĕro. (of persons), dūco.
+- displease, displĭceo, dat.
+- dictator, dictātor, -ōris.
+- toga, tŏga.
 
 ## Exercise 80.
 
-- hold, teneo, -ere, -ui, -tum.
-- letter, litterae, epistola.
-- read, lego, -ere, legi, lectum.
-- thank, gratias ago (-ere, egi, actum), dat.
-- faithful, fidelis; adv. fideliter.
-- put back, repono.
-- wake (trans.), excito, I.
-- at first, primo.
-- fortune, fortuna,
+- hold, tĕneo, -ēre, -ui, -tum.
+- letter, litterae, ĕpistŏla.
+- read, lĕgo, -ĕre, lēgi, lectum.
+- thank, grātias ăgo (-ĕre, ēgi, actum), dat.
+- faithful, fĭdēlis; adv. fĭdēliter.
+- put back, rĕpōno.
+- wake (trans.), excĭto, I.
+- at first, prīmo.
+- fortune, fortūna.
  
 ## Exercise 81.
 
