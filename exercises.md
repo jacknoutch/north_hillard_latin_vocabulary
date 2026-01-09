@@ -23,7 +23,7 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 
 1. I am going to the city to buy bread.
 2. He went to the city lest he should see his father.
-3. We have gone home[^2] to see our friends.
+3. We have gone home¹ to see our friends.
 4. We shall go to Caesar to ask for peace.
 5. Do not send me to ask for peace.
 6. We were running fast that we might not be caught.
@@ -32,18 +32,22 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 9. You had gone to Italy to see the king's son.
 10. We were sent to ask for peace.
 
+¹domum
+
 ## Exercise 3[A].
 
 1. The enemy retreated in order to avoid a battle.
 2. We shall send 200 men in order that we may hinder the enemy's march.
 3. They marched quickly so that the enemy might not learn their plans.
-4. We advanced to the top of the hill[^3] to see the enemy's camp.
+4. We advanced to the top of the hill¹ to see the enemy's camp.
 5. He is marching with Caesar so that he may not be accused by us.
 6. We work in order to become rich.
 7. They have come to ask for arms from us.
 8. In order that we may not think you a coward, fight bravely.
 9. He did this in order that a poor man might not be consul.
 10. We ought not to do this to be praised.
+
+¹summus collis. So with some other words: *the middle **of the** stream*=medium flumen. *all **of** us*=omnes nos. *the rest **of the** army*=reliquus exercitus. *the whole **of the** city*=tota urbs. *the end **of the** year*= extremus annus. In all these Latin uses *adjectives* where English uses the words 'rest', 'all', 'middle', etc., as *nouns*.
 
 ## Exercise 4[B].
 
@@ -60,16 +64,19 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 
 ## Exercise 5[B].
 
-1. In order not to be accused myself, I accused my friend.
+1. In order not to be accused myself,¹ I accused my friend.
 2. We ought to praise good men to make others good.
 3. To avoid the enemy march very quickly.
 4. We left the sick so that we might not be hindered.
 5. I have not come to avoid my enemies.
 6. To be safe stay in the city.
-7. All of us will come with you, so that you may be safe.
+7. All of us will come with you,² so that you may be safe.
 8. Do not come in order to save me.
 9. In order that the enemy might not take the city the whole of the army set out.
 10. That they may not be caught by the enemy do not send many men.
+
+¹ 'ipse,' in agreement with subject expressed or understood.
+² 'tecum.' 'Cum' follows its case in the same way in mecum, secom, nobiscum, vobiscum, quibuscum.
 
 ## Exercise 6[A].
 
@@ -2315,9 +2322,3 @@ Meanwhile the Carthaginians, knowing the weakness of their naval force at Lilyba
 ## Exercise 256 [B]
 
 The fight was fierce and tumultuous. The assailants were repulsed in their first attack, and several of their bravest officers were shot down in the act of storming the fortress sword in hand. The assault was renewed with greater success. The Indians were driven from one post to another. They disputed their ground inch by inch, fighting with the utmost fury. Most of their veterans were cut to pieces, and after a long and bloody battle Philip and Canonchet, with a handful of surviving warriors, retreated from the fort and took refuge in the thickets of the neighbouring forest. The victors set fire to the wigwams and forts; the whole was soon in a blaze; many of the old men, the women, and the children, perished in the flames.
-
-## Notes
-
-[^1]: The Historic Present may be regarded either as a Primary or as a Historic tense. The Imperative is always followed by a Primary tense.
-[^2]: domum
-[^3]: summus collis. So with some other words: *the middle **of the** stream*=medium flumen. *all **of** us*=omnes nos. *the rest **of the** army*=reliquus exercitus. *the whole **of the** city*=tota urbs. *the end **of the** year*= extremus annus. In all these Latin uses *adjectives* where English uses the words 'rest', 'all', 'middle', etc., as *nouns*.
