@@ -47,7 +47,7 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 9. He did this in order that a poor man might not be consul.
 10. We ought not to do this to be praised.
 
-¹summus collis. So with some other words: *the middle **of the** stream*=medium flumen. *all **of** us*=omnes nos. *the rest **of the** army*=reliquus exercitus. *the whole **of the** city*=tota urbs. *the end **of the** year*= extremus annus. In all these Latin uses *adjectives* where English uses the words 'rest', 'all', 'middle', etc., as *nouns*.
+¹summus collis. So with some other words: *the middle of the stream*=medium flumen. *all of us*=omnes nos. *the rest of the army*=reliquus exercitus. *the whole of the city*=tota urbs. *the end of the year*= extremus annus. In all these Latin uses *adjectives* where English uses the words 'rest', 'all', 'middle', etc., as *nouns*.
 
 ## Exercise 4[B].
 
@@ -83,13 +83,16 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 1. The soldiers are so brave that they always conquer the enemy.
 2. He has done this in such a way that we do not praise him.
 3. The enemy were so many that all our men were afraid.
-4. He escaped so quickly that no one could catch him.
-5. The battle was fought so fiercely that all the soldiers were killed.
+4. He escaped so quickly that no one¹ could catch him.
+5. The battle was fought² so fiercely that all the soldiers were killed.
 6. The danger is so great that no ships can be saved.
 7. So deep is the river that no one can cross it.
 8. They have conquered the enemy so often that now they despise them.
 9. Their fear was so great that they did not dare to cross the river.
 10. So great a storm had arisen that all the sailors were terrified.
+
+¹ Nemo is a noun, 'nobody,' 'no one.' Nullus is an adj., 'no,' 'none.'
+² Pugnatum est=the battle was fought.
 
 ## Exercise 7[A].
 
@@ -97,12 +100,15 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 2. Are you strong enough to defeat the enemy?
 3. The snow was so deep that we did not set out, but remained in the camp.
 4. He has said this so often that now I am weary.
-5. So numerous were the enemy that they easily took the city.
-6. The tree was so high that it fell and lay on the ground.
+5. So numerous¹ were the enemy that they easily took the city.
+6. The tree was so high that it fell and lay on the ground.²
 7. We were not brave enough to return to the battle.
 8. Such was his courage that all men praised him, and wished to follow him.
 9. He has done this so easily that he is not tired.
 10. These trees were of such a kind that we could not climb them.
+
+¹ *so numerous* = tot  
+² *on the ground* = humi
 
 ## Exercise 8[B].
 
@@ -116,8 +122,10 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 8. They are such cowards as not to dare to return into battle.
 9. We are strong enough to save you.
 10. We were not strong enough to fight against them.
-11. They are so strong that they are always willing to work, and do not become weary.
+11. They are so strong that they are always willing to work, and do not¹ become weary.
 
+¹ *and … not* = neque. Never put *et* before a negative; e.g. do not say *et nunquam* but *neque unquam*; do not say *et nulla navis* but *neque ulla navis*.
+  
 ## Exercise 9[B].
 
 1. The tree was so high that it fell.
@@ -140,10 +148,14 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 4. The wall was made so high that no one could ever climb it.
 5. I am so tired that I cannot work.
 6. The messengers, who were sent to ask for peace, have returned.
-7. The laws which the Romans made were so good that no one wished to break them.
-8. Speak about me so that he may never accuse me again.
-9. The rich helped the poor so that they might not die of hunger.
+7. The laws which the Romans made were so good that no one wished to break¹ them.
+8. Speak about² me so that he may never accuse me again.
+9. The rich helped the poor so that they might not die of³ hunger.
 10. He was so hurt that he died.
+
+¹ *Violāre*
+² When *about* or *of* means *concerning*, use dē.
+³ *of* here means *by*, denoting cause or instrument; therefore use the simple ablative.
 
 ## Exercise 11[A].
 
@@ -175,18 +187,23 @@ In the following sentences Latin requires the dependent verb to be in the Subjun
 
 1. He sent so few men that we could not defend the walls.
 2. We shall return so quickly that you ought not to fear danger.
-3. The man who dares to despise his enemies is brave enough to conquer them.
+3. The man who¹ dares to despise his enemies is brave enough to conquer them.
 4. No man is so brave that he is never afraid.
 5. We have come to help you so that nothing may hinder the work.
 6. He bore a shield so that no weapon might hurt him.
 7. He bore so big a shield that no weapon could hurt him.
 8. They all were put to death so that no messenger might ever return home.
-9. I am accused by so many men that I dare not defend myself.
+9. I am accused by so many men that I dare not defend myself.²
 10. In order never to be conquered never be afraid.
+
+¹ *is quī*. Wherever *the man* or *men* = *he* or *those*, translate by is.  
+² *me ipsum*
 
 ## Exercise 14[A].
 
-A poor soldier was one day leading a mule laden with gold which had been sent to Alexander the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, “My friend, try to carry the gold home, for I give it all to you.”
+A poor soldier was one day leading a mule laden with gold which had been sent to Alexander¹ the Great. The mule was so tired that it could no longer bear the burden, and the soldier was compelled to carry the gold himself. But by chance Alexander himself was following the man, and he admired his kindness so much that he said, “My friend, try to carry the gold home, for I give it all to you.”
+
+¹ *Alexander*, -drī
 
 ## Exercise 15[A].
 
@@ -194,7 +211,9 @@ The enemy advanced quickly to capture the city. There were so few soldiers in th
 
 ## Exercise 16[A].
 
-The soldiers, who had been marching all day, were so tired that they could scarcely climb the hill. Some, in order to march quickly, threw away their arms; others were so exhausted that their friends carried them. But their courage was so great that at last they came to the top of the hill, and saw the enemy’s camp. Here they hid themselves that they might not be seen by the enemy.
+The soldiers, who had been marching all day,¹ were so tired that they could scarcely climb the hill. Some, in order to march quickly, threw away their arms; others were so exhausted that their friends carried them. But their courage was so great that at last they came to the top of the hill, and saw the enemy’s camp. Here they hid themselves that they might not be seen by the enemy.
+
+¹ *Acc.*
 
 ## Exercise 17[B].
 
@@ -202,7 +221,9 @@ They had been so often defeated by Caesar that they sent messengers to him and a
 
 ## Exercise 18[B].
 
-A Persian, who had been banished from Persia, came to the city of Athens to see Cimon. He brought much gold and silver, in order by presents to make Cimon his friend. “Do you bring this money to buy my friendship?” asked Cimon. “I wish to make you my friend,” replied the Persian. “Take away the money,” Cimon said, “lest I should think you an enemy. Friendship is not bought and sold.”
+A Persian,¹ who had been banished from Persia, came to the city of Athens to see Cimon. He brought much gold and silver, in order by presents to make Cimon his friend. “Do you bring this money to buy my friendship?” asked Cimon. “I wish to make you my friend,” replied the Persian. “Take away the money,” Cimon said, “lest I should think you an enemy. Friendship is not bought and sold.”
+
+¹ *Persian* = Persa, 1st decl. masc. *Cimon*, gen. Cimonis. *Athens* = Athēnae, -ārum, f. pl. “The city of Athens” = *the city Athens* in Latin (two nouns in apposition).
 
 ## Exercise 19[B].
 
@@ -213,7 +234,7 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 1. Hoping is easier than believing.
 2. Those who wish to command ought to learn to obey.
 3. He was thought to be a good general.
-4. It is the duty of all soldiers to be willing to die for their country.
+4. It is the duty of¹ all soldiers to be willing to die for their country.
 5. Cease to be idle, and learn to work.
 6. We have determined to go to the help of our friends.
 7. These men are not accustomed to fight.
@@ -222,6 +243,8 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 10. They did not dare to lie.
 11. Were you not compelled to leave your home?
 12. They do not allow us to remain in the city.
+
+¹ Latin: *it is of all soldiers* (genitive). Same with phrases like *it is the part of…*, *it is the nature of…*
 
 ## Exercise 21[A].
 
@@ -256,25 +279,30 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 3.  Speaking is easier than persuading.
 4.  You ought never to cease to learn.
 5.  If we desire to learn we can always have masters.
-6.  Not helping our friends is the same as hurting them.
+6.  Not helping our friends is the same as¹ hurting them.
 7.  Punish him if he is unwilling to learn.
 8.  We decided to defend the city.
 9.  We have been compelled to buy many things which  
     do not seem to be useful.
 10. You force me to speak against my will.
 
+¹ *the same as* = idem ac
+
 ## Exercise 24[A].
 
 1.  The army having been defeated the general fled.
 2.  Regulus having been given up to the enemy was put to death.
 3.  Having conquered the enemy the general returned home.
-4.  Having summoned the citizens he spoke as follows.
+4.  Having summoned the citizens he spoke as follows.¹
 5.  The soldiers having been captured gave up their arms.
 6.  Having collected his forces he led them against the enemy.
-7.  The Gauls having thrown away their arms were taken by the Romans.
+7.  The Gauls² having thrown away their arms were taken by the Romans.
 8.  Having taken the messenger they put him to death.
 9.  Having killed his brother he fled into the woods.
 10. The enemy having captured the messengers put them to death.
+
+¹ *haec dīxit*  
+² *Gallī*
 
 ## Exercise 25[B].
 
@@ -369,15 +397,22 @@ Pyrrhus, the Greek, gave money to Fabricius, the Roman general, that he might be
 
 ## Exercise 32 [A].
 
-The enemy being now defeated, the general led his men back to the camp, which had been fortified by a rampart. The lieutenant having been left in the camp, had not heard about the battle. When he saw the army at a distance, he went to the top of the rampart to await them. As they approached, he went out and asked them about the fight. But they were so tired that they would tell him nothing, but threw away their arms and went to their tents.
+The enemy being now defeated, the general led his men back to the camp, which had been fortified by a rampart. The lieutenant¹ having been left in the camp, had not heard about the battle. When he saw the army at a distance, he went to the top of the rampart to await them. As they approached, he went out and asked them about the fight. But they were so tired that they would tell him nothing, but threw away their arms and went to their tents.²
+
+¹ *lēgātus*  
+² *tabernācula*, n. pl.
 
 ## Exercise 33 [A].
 
-The bread being now all eaten, we were dying of1 hunger. But the general, calling us together, gave us the bread which he had kept hidden in his house; then, opening the gates, he and the soldiers escaped through the enemy's camp. The wounded only being left [behind] in the city, we gave ourselves up to the enemy. They soon left us, taking away much gold and silver from the city.
+The bread being now all eaten, we were dying of¹ hunger. But the general, calling us together, gave us the bread which he had kept hidden in his house; then, opening the gates, he and the soldiers escaped through the enemy's camp. The wounded only being left [behind] in the city, we gave ourselves up to the enemy. They soon left us, taking away much gold and silver from the city.
+
+¹ See note 3, p. 13.
 
 ## Exercise 34 [B].
 
-Seeing the enemy the Gauls crossed the river, and breaking down the bridge waited for Caesar's arrival. Caesar did not wish to fight immediately as his men2 were wearied. Marching therefore into the hills he pitehed a camp, then came down against the enemy when they had gone out of the camp and were seeking corn. Having conquered them he sold those whom he had captured, and after repairing the bridge returned to the city.
+Seeing the enemy the Gauls crossed the river, and breaking down the bridge waited for Caesar's arrival. Caesar did not wish to fight immediately as his men² were wearied. Marching therefore into the hills he pitehed a camp, then came down against the enemy when they had gone out of the camp and were seeking corn. Having conquered them he sold those whom he had captured, and after repairing the bridge returned to the city.
+
+² *His men* = suī
 
 ## Exercise 35 [B].
 
@@ -386,7 +421,7 @@ Returning to the top of the hill the scout saw the enemy slowly advancing across
 ## Exercise 36 [A].
 
 1. In the country. At home. From Asia. From Athens. In summer. In the night. All night.
-2. He sent the forces to Labienus in the camp.1
+2. He sent the forces to Labienus in the camp.¹
 3. Augustus died at Nola (when) 70 years old.
 4. Cicero was consul a few years before.
 5. I will go into the country next summer.
@@ -395,6 +430,8 @@ Returning to the top of the hill the scout saw the enemy slowly advancing across
 8. I went to Syracuse in winter. The snow was two feet deep.
 9. I saw my friend at Carthage three months ago.
 10. The snow was deeper in the country than in the city.
+
+¹ In Latin, “into the camp,” closely connected with the verb of motion. Same in Ex. 37 sentence 7: “to go into Italy to see your friends.”
 
 ## Exercise 37 [A].
 
@@ -430,16 +467,21 @@ Returning to the top of the hill the scout saw the enemy slowly advancing across
 2. The city was so beautiful that I remained in it for many years.
 3. I have not seen my friends for many years.
 4. They stayed in the country all the summer, and on the approach of winter returned to the city.
-5. My friends came from Athens to see me at Corinth.
+5. My friends came from Athens to see me at Corinth.¹
 6. He left the camp at sunset and went to the nearest town with one companion.
 7. 7. On the following day he pitched his camp about seven miles from the enemy.
 8. In the evening they reached the river Allia, which is about eleven miles distant from Rome.
 9. This river is thirty feet broad and ten feet deep.
 10. On that day he returned to his country, from which he had set out (when) fifteen years old.
 
+¹ See note 1 to Ex. 36.
+
 ## Exercise 40 [A].
 
-Three days after we crossed a river 45 feet broad. From this river we marched along a good road1 for four days, and came to Carthage. For a short time we stayed in the city but for fear of the citizens soon left it and made a camp upon the seashore. Food was brought to the camp from the country every day. At the beginning of spring we marched to Utica; a town which2 had been eaptured by the Romans five years before.
+Three days after we crossed a river 45 feet broad. From this river we marched along a good road¹ for four days, and came to Carthage. For a short time we stayed in the city but for fear of the citizens soon left it and made a camp upon the seashore. Food was brought to the camp from the country every day. At the beginning of spring we marched to Utica; a town which² had been eaptured by the Romans five years before.
+
+¹ The _way by which_ one goes is expressed by the ablative without preposition.
+² In Latin, 'which town.'
 
 ## Exercise 41 [B]
 
@@ -461,19 +503,22 @@ For many days we remained within our camp awaiting the enemy's attack. All night
 
 ## Exercise 43 [B].
 
-1. Let us feed on the same food asI the soldiers.
+1. Let us feed on the same food as¹ the soldiers.
 2. He is much more like you than Caesar (is).
 3. Solon, a man of great wisdom, gave laws to Athens.
 4. The walls, which have been built by Balbus, are of great height.
 5. We shall be saved more by courage than by our walls.
 6. On the march we saw more friends than enemies.
-7. No walls are higher than those of? Babylon.
+7. No walls are higher than those of² Babylon.
 8. I admire this house much more than that.
 9. The enemy's forces are a little smaller than ours.
 10. We were attacked by the enemy with a shower of darts.
 11. He was beaten by the bows which the soldiers used.
 12. We crossed a river many feet deeper than the Rhone.
 13. Our city is many times larger than yours.
+
+¹ Use the relative: eōdem … quō  
+² Omit *those*. Same with “that of” in comparisons: *my house is higher than that of Caius* = mea domus quam Caīī altior est
 
 ## Exercise 44 [A].
 
@@ -2048,7 +2093,7 @@ There can be little doubt that the guides, whether through treachery or ignoranc
 
 A young Spartan, named Isadas, distinguished himself particularly in this action. He had neither armour nor clothes upon his body, and he held a spear in one hand and a sword in the other. In this condition he quitted his home with the utmost eagerness, and was the first to enter the battle. He dealt mortal wounds at every blow, and overthrew all who opposed him without receiving any hurt himself. Whether the enemy were dismayed at so strange a sight, or whether the gods preserved him on account of his extraordinary valour, it is certain that no man ever accomplished such marvellous deeds. It is said that after the battle the Ephori decreed him a crown for his valour, but fined him a thousand drachmae for having exposed himself to so great a danger without arms.
 
-Below is a **verbatim transcription of Exercises 217–222**, taken directly from your uploaded **nh.pdf**, preserving **numbering, [A]/[B] identifiers, wording, punctuation, paragraphing, and notes**. Line‑break hyphenation from the scan has been silently normalised; otherwise the text is unchanged.
+Below is a verbatim transcription of Exercises 217–222, taken directly from your uploaded nh.pdf, preserving numbering, [A]/[B] identifiers, wording, punctuation, paragraphing, and notes. Line‑break hyphenation from the scan has been silently normalised; otherwise the text is unchanged.
 
 ## Exercise 217 [A]
 
