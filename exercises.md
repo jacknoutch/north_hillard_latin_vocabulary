@@ -2615,21 +2615,21 @@ Put into Oratio Obliqua after a verb in a Historic tense:—
 
 Labienus was the next to speak, and he expressed contempt for Caesar’s forces. They must not imagine, he said, that this was the army which conquered Gaul and Germany. He was present himself at the battles fought in those countries, and was not rashly stating facts beyond his knowledge.¹ A very small fraction of that army survived. Many had been destroyed by pestilence, many had gone home. Had they not heard that regiments had been manufactured² at Brundisium out of the wounded that had been left behind? The forces which they saw before them were raw recruits, and most of them came from colonies beyond the Po. Moreover the flower of the army had perished in the two engagements at Dyrrhachium. He himself finally would swear never to return to the camp unless victorious; let all the rest follow his example.
 
-¹ 
-² 
+¹ _which he had not ascertained._
+² _made_
 
 ## Exercise 242 [A]
 
 According to the historian Livy,³ Appius declared to the assembled Senate that he wished he was deaf so that he might not hear the disgraceful counsels which were that day dishonouring the Roman name. He greatly regretted, he said, their change of temper; it was very different from the temper of former days. Whither had their pride and courage fled? Had they not once boasted that they would have opposed Alexander himself, if in the period of their youth he had dared to invade Italy? Let them not now deliver up to Lucanians and wretched Greeks⁴ what their fathers had won by the sword.
 
-³ 
-⁴ 
+³ Apud Livium scriptum invenimus.
+⁴ Graeculus, the diminuitive expressing contempt.
 
 ## Exercise 243 [A]
 
 The terms of peace, heavy though they were, were only such as they expected under the circumstances;¹ and Hannibal dragged down with his own hands from the rostrum an orator who was recommending the continuance of the war. The people were indignant with Hannibal for thus infringing upon their liberty of speech; but Hannibal replied that they must forgive him if, after serving thirty‑six years in the camp, he had forgotten the manners of the forum. Livy relates that the terms agreed upon by Scipio and the Carthaginian government were then referred to the Senate at Rome, and were accepted by them, both because they felt that they were sufficiently severe, and also because they feared that if they rejected them the Carthaginians would renew the war.
 
-¹ 
+¹ in tali re.
 
 ## Exercise 244 [A]
 
@@ -2647,16 +2647,16 @@ When Sulla had overcome his enemies and assumed supreme power, he assembled the 
 
 There are men in our times who seem to desire not only to change the laws (which¹ perhaps would be a laudable desire²), but to upset the whole state.³ I was listening to one such yesterday as he addressed a crowd of artisans in the forum (Or. Obl.). “Who is it,” he asked them, “that oppresses us? Who is it for whom we pile up wealth, while we want ourselves money to buy food? You yourselves can answer the question, nor is there any need for me to tell you. Our senators have the power to prevent good laws being carried, and M. Crassus buys the consulship every year for himself and his friends. Fellow‑citizens,⁴ there is only one remedy—let us drive them from the city. Let us teach them by fire and bloodshed how great a wrong they have done to the people.”
 
-¹ 
-² 
-³ 
-⁴ 
+¹ id quod.
+² _worthy of praise._
+³ rempublicam evertere.
+⁴ A Vocative in the middle of a speech will usually simply be omitted in Oratio Obliqua.
 
 ## Exercise 248 [A]
 
 Three days after the setting out of the troops from Rome the gloomy intelligence arrived that the enemy, after having utterly routed the Roman army on the 12th of March, were now in possession of the city of Corioli, and all the territory and other property of the allies (Or. Obl.). “I am the only man,” said the messenger, “who has survived the battle. The enemy, flushed with recent victory, are coming in, and must⁵ even now be not more than three miles from the city. So savage is their temper, that I am sure no one, however old and infirm, will be spared.” Having heard this the Senate determined at once to send envoys to meet the enemy on their approach, with the intention of suing for peace.
 
-⁵ 
+⁵ Use 'sine dubio'.
 
 ## Exercise 249 [B]
 
@@ -2666,8 +2666,8 @@ He had now won a decisive victory, and it seemed certain that the campaign would
 
 The general replied that no one could be more anxious than himself to consult the interests of his men; but he reminded them how foolish it was to lose the advantages of a victory well‑nigh assured. They must not think, he said, that he had undertaken this campaign merely in the hope of winning glory for himself. They would share equally with him in the fruits of victory; and if once the enemy were crushed, they might return home enriched with spoils taken from the enemy. He also pointed out that though the enemy were seeking refuge in the mountains, they had not yet reached them, and that if an immediate advance were made, it would be easy to overtake them before they reached a place of safety.
 
-¹ 
-² 
+¹ perdo.
+² spes.
 
 ## Exercise 251 [B]
 
@@ -2679,16 +2679,16 @@ Do not believe what is commonly asserted in the city, that I am seeking the cons
 
 On this night the king gathered round him his little band of followers, and in a few words said farewell to them (Or. Obl.). “Gentlemen,”¹ he said, “your fortune has so long been linked with mine that the word which I speak to‑night nothing but the last necessity forces me to utter. If there were yet a hope, I would still make use of your loyalty and your aid. Do not think that I value these lightly. You are the few who, having enjoyed with me the times of prosperity, refused to desert me in adversity. And for this I thank you. But permit me now to think of your safety, for the sake of which I shall to‑morrow give myself up. Why should I destroy you with myself? When the rebels have me in their hands they will perhaps leave you free to escape whither you will.”
 
-¹ 
+¹ Omit the Vocative. See the note 4, p. 190.
 
 ## Exercise 253 [B]
 
 Hearing of these immense numbers, Robert Guiscard assembled a council of his principal officers (Or. Obl.). “You behold,” said he, “your danger: you see how urgent¹ mit is. The hills are covered with arms and standards; and the Emperor of the Greeks is accustomed to wars and triumphs. Union is our only safety.² Only bid me, and I am ready at once to yield the command to a worthier leader.” The acclamation even of his foes assured him at this perilous moment of their confidence;³ and he thus continued (Or. Obl.), “Let us trust in the reward of victory, and let us not leave cowards the means⁴ of escape. Burn your vessels and your baggage, and give battle on this spot.” This resolution was unanimously approved, and Guiscard awaited in battle array the approach of the enemy. Perhaps he was not conscious that on the same ground Caesar and Pompey had formerly disputed the empire of the world.
 
-¹ 
-² 
-³ 
-⁴ 
+¹ Use verb.
+² _Our safety depends on our union._
+³ _Even his private enemies showed by their applause that they trusted him._
+⁴ locus or facultas.
 
 ## Exercise 254 [B]
 
@@ -2696,8 +2696,8 @@ Turn into Or. Obl. after a Historic tense:—
 
 I might have gone to Spain, where I should have had my brother to share my labours, and Hasdrubal instead of Hannibal for my foe. But hearing as I sailed along the coast of the arrival of the enemy in Gaul, I landed immediately, sent on my cavalry before, and moved my camp up to the Rhone. I am anxious to try whether Carthage in the last⁵ twenty years has produced a new race of citizens, or whether these are the same men whom we held so cheap when we let them go from Eryx. Would that this contest were for honour merely, not for very life! But you are fighting for Italy itself, and for your homes; nor is there another army in your rear to bar the enemy’s way if you fail⁶ to conquer him. Let each one of you consider that the Senate is watching him, and that the fate of Rome depends upon his valour.
 
-⁵ 
-⁶ 
+⁵ his.
+⁶ Use nisi.
 
 ## Exercise 255 [A]
 
