@@ -581,7 +581,7 @@ In the following sentences translate only the pronouns in italics :
 ## Exercise 48 [A].
 
 1. They informed the general that hostages would be given by all the states.
-2. Our men1 were told2 that the enemy had fortified their camp, and were expecting an attack.
+2. Our men¹ were told² that the enemy had fortified their camp, and were expecting an attack.
 3. It was reported that the Gauls were close at hand.
 4. The soldiers all declared that they would never leave their leader.
 5. You have promised to come to me in the camp.
@@ -592,11 +592,14 @@ In the following sentences translate only the pronouns in italics :
 10. They pretended to have told the king about the disaster.
 11. Do not pretend to be wiser than your father.
 
+¹ Nostri alone.
+² certiories facti sunt. To inform=aliquem certiorem facere (literally 'to make more sure'). I informed him=eum certiorem feci. In the Passive 'to be informed,' 'to be told,' 'to hear' =certior fieri. They will be informed = certiores fient. Remember that dicor=I am said, never I am told.
+
 ## Exercise 49 [B].
 
-1. It is said1 that the enemy are at hand.
+1. It is said¹ that the enemy are at hand.
 2. News was brought that the enemy were at hand.
-3. He was told that the legions would follow as soon as possible.2
+3. He was told that the legions would follow as soon as possible.²
 4. It is agreed that the traitors were rightly killed.
 5. Having been told that the city was taken, we retreated.
 6. He promised to give the booty to the soldiers.
@@ -604,6 +607,9 @@ In the following sentences translate only the pronouns in italics :
 8. You know that they will not return.
 9. The prisoners themselves declared that they were Gauls.
 10. They said they were sure that the camp would be taken.
+
+¹ Do not use dicitur. Latin prefers the personal construction, e.g. hostes dicuntur. ... Similarly do not use videtur for it seems where the sentence can be made personal; e.g. It seems that the ambassadors have returned = Legati videntur redisse.
+² quam primum. Quam with a superlative (adj. or adv.) always has this sense; e.g. Quam plurimos milites collegit (he collected as many soldiers as possible). Quam celerrime progressi sunt (they advanced as quickly as possible).
 
 ## Exercise 50 [B].
 
@@ -620,15 +626,25 @@ In the following sentences translate only the pronouns in italics :
 
 ## Exercise 51 [A].
 
-An old man used to complain to his wife in these words. He used to say that he went to the fields every day, and returned home in the evening tired with work; but that she sat at home idle. The wife replied that she did not wish to be idle, and promised that she would go to the fields the next day. The husband accordingly stayed at home to prepare the supper, but not being skilled in1 such things he prepared nothing which they could2 eat in the evening; and in the morning he said he would rather work and eat than sleep and be hungry. So he went to the fields himself.
+An old man used to complain to his wife in these words. He used to say that he went to the fields every day, and returned home in the evening tired with work; but that she sat at home idle. The wife replied that she did not wish to be idle, and promised that she would go to the fields the next day. The husband accordingly stayed at home to prepare the supper, but not being skilled in¹ such things he prepared nothing which they could² eat in the evening; and in the morning he said he would rather work and eat than sleep and be hungry. So he went to the fields himself.
+
+¹ peritus with Gen.
+² Subj.
 
 ## Exercise 52 [A].
 
-It was told Philip that the Romans were at hand. Crying out that he had been betrayed he ran out into the forum, and sent some men to throw his treasures1 into the sea and others to burn the ships. Men who saw him say he was like a madman.2 He declared that the passes had been purposely abandoned by his generals, and that he would punish the guilty. At the same time he promised to give a large sum of3 money for every Roman killed in his kingdom.
+It was told Philip that the Romans were at hand. Crying out that he had been betrayed he ran out into the forum, and sent some men to throw his treasures¹ into the sea and others to burn the ships. Men who saw him say he was like a madman.² He declared that the passes had been purposely abandoned by his generals, and that he would punish the guilty. At the same time he promised to give a large sum of³ money for every Roman killed in his kingdom.
+
+¹ thesaurus.
+² madman =furens (participle).
+³ a large sum of=multus.
 
 ## Exercise 53 [A].
 
-On hearing that4 the Roman general had sent 3000 soldiers to besiege the town, the citizens, whose food was already beginning to fail, were greatly alarmed. So they resolved to send ambassadors to the camp to ask for peace. The Romans answered that this would be given when hostages had been surrendered (all. abs.). The Roman general demanded these before night; but the citizens refused5 to obey the order: they said that they would rather die than accept such a peace. And accordingly the city was blockaded for four months. Then the Romans withdrew to defend their own territories against the Suevi.
+On hearing that⁴ the Roman general had sent 3000 soldiers to besiege the town, the citizens, whose food was already beginning to fail, were greatly alarmed. So they resolved to send ambassadors to the camp to ask for peace. The Romans answered that this would be given when hostages had been surrendered (all. abs.). The Roman general demanded these before night; but the citizens refused⁵ to obey the order: they said that they would rather die than accept such a peace. And accordingly the city was blockaded for four months. Then the Romans withdrew to defend their own territories against the Suevi.
+
+⁴ Translate by "having been informed that"
+⁵ Use nego (said they would. not . .. ).
 
 ## Exercise 54 [B].
 
@@ -640,7 +656,9 @@ When Romulus had returned to the Campus Martius to review the army, a great stor
 
 ## Exercise 56 [B].
 
-I have many friends, but of them all I think Caius is the cleverest. Once the brother of Caius was accused on account of some offence, and Caius was compelled to give evidence.1 The accusers wished to make him angry, so that he might deny what he had already said. But he knew that they desired this, and gave his evidence without anger. At length one of the accusers said, "Go away, my friend: you are a very clever man." Caius replied that he wished that he could say the same of them, but that he had sworn to tell the truth.
+I have many friends, but of them all I think Caius is the cleverest. Once the brother of Caius was accused on account of some offence, and Caius was compelled to give evidence.¹ The accusers wished to make him angry, so that he might deny what he had already said. But he knew that they desired this, and gave his evidence without anger. At length one of the accusers said, "Go away, my friend: you are a very clever man." Caius replied that he wished that he could say the same of them, but that he had sworn to tell the truth.
+
+¹ testimonium dicere.
 
 ## Exercise 57 [A].
 
@@ -674,13 +692,16 @@ thought it of no value.
 1. I know that they waste too much time.
 2. He had too little confidence in himself.
 3. You both have sufficient boldness.
-4. They do this that the State may not suffer any1 loss.
+4. They do this that the State may not suffer any¹ loss.
 5. Three thousand of our best soldiers have perished.
 6. Some of the citizens wished to surrender, others to resist.
 7. Our country, which was once the greatest in the world, still keeps some of its old strength.
-8. Most of you2 have shown more courage than wisdom.
+8. Most of you² have shown more courage than wisdom.
 9. I think there is some good in all men.
 10. Where in the world do you live?
+
+¹ quid
+² Nos has two genitives-nostrum and nostri; vos has vestrum and vestri. Use the forms in -um for Partitive Genitive, the forms in -i for the Objective Genitive.
 
 ## Exercise 60 [B].
 
@@ -691,9 +712,11 @@ thought it of no value.
 5. So great a storm arose, that the greater part of the ships were lost.
 6. Some of us have lost all hope.
 7. You, who have some love for your country, ought not to do this.
-8. He was the first to march1 into this part of the country.
+8. He was the first to march¹ into this part of the country.
 9. I do not consider Crassus the greatest man in our country.
 10. Send to our help the best of your ships.
+
+¹ He, the first (adj.), marched. So "he left last" is ultimus abiit.
 
 ## Exercise 61 [A].
 
@@ -706,10 +729,12 @@ thought it of no value.
 7. It is difficult to heal such a disease.
 8. My friend Atticus came out of the city to meet me.
 9. Having been put in command of a legion, he took part in many battles in Gaul.
-10. The cavalry pressed the Gauls hard in their flight.1
+10. The cavalry pressed the Gauls hard in their flight.¹
 11. A thousand Gauls threw themselves in our way, and we scarcely held our ground against them
 12. Caesar waged war against the Gauls, but his victories did not please his enemies at Rome.
 13. They threatened me with death, but I had not injure them.
+
+¹ = flying. Use participle.
 
 ## Exercise 62 [B],
 
@@ -728,23 +753,40 @@ thought it of no value.
 
 ## Exercise 63 [A].
 
-The Greeks valued their liberty so highly that they determined to resist the Persians and never' yield to them. Themistocles was put in command of the Greek forces. By his advice the Greeks trusted to their ships, and fought the Persians2 by sea. The Greek fleet was near the island of Salainis,8 and most of the leaders wished to withdraw from this place, and leave Athens in the hands of the Persians; for they valued their own safety more than the city of Athens. Then Themistocles declared that he and the Athenians4 would sail to Athens with the fleet of two hundred ships. But he was not able to persuade the others
+The Greeks valued their liberty so highly that they determined to resist the Persians and never¹ yield to them. Themistocles was put in command of the Greek forces. By his advice the Greeks trusted to their ships, and fought the Persians² by sea. The Greek fleet was near the island of Salainis,³ and most of the leaders wished to withdraw from this place, and leave Athens in the hands of the Persians; for they valued their own safety more than the city of Athens. Then Themistocles declared that he and the Athenians⁴ would sail to Athens with the fleet of two hundred ships. But he was not able to persuade the others.
+
+¹ See note 1 on p. 11.
+² Against the Persians.
+³ Salamis, f.; Gen., Salaminis; Acc., Salamina.
+⁴ Athenae, -arum, f.; Athenian = Atheniensis.
 
 ## Exercise 64 [A].
 
-Thereupon5 Themistocles formed the following6 plan to save both Athens and the other States of Greece. He sent a messenger secretly to the king of the Persians to tell him that the Greeks were about to depart. He pointed out that the Persians with their large fleet would easily surround the small forces of the Greeks. There are some who' say that by this advice he wished to please the king, and that he put his own safety before the freedom of his country. But the advice was of great service to Greece; for the ships of the Persians hindered one another,8 and the Greeks routed the enemy.
+Thereupon⁵ Themistocles formed the following⁶ plan to save both Athens and the other States of Greece. He sent a messenger secretly to the king of the Persians to tell him that the Greeks were about to depart. He pointed out that the Persians with their large fleet would easily surround the small forces of the Greeks. There are some who⁷ say that by this advice he wished to please the king, and that he put his own safety before the freedom of his country. But the advice was of great service to Greece; for the ships of the Persians hindered one another,⁸ and the Greeks routed the enemy.
+
+⁵ Quo facto.
+⁶ This.
+⁷ Sunt qui, with Subj.
+⁸ One another here tr. by se.
 
 ## Exercise 65 [A].
 
-In the battle which Caesar fought in that place with the Gauls he lost many of his men. For when he had arrived at the top of a hill, and had begun to fortify a camp, suddenly the enemy made an attack. The Romans, who were not standing in line of battle, at first were unable to resist, and took to flight; but afterwards Caesar sent the tenth legion, which he had with him,1 to their aid, and at last the Gauls were driven down to the river. Here, however, they again made a stand, and Caesar himself says that they fought very bravely.
+In the battle which Caesar fought in that place with the Gauls he lost many of his men. For when he had arrived at the top of a hill, and had begun to fortify a camp, suddenly the enemy made an attack. The Romans, who were not standing in line of battle, at first were unable to resist, and took to flight; but afterwards Caesar sent the tenth legion, which he had with him,¹ to their aid, and at last the Gauls were driven down to the river. Here, however, they again made a stand, and Caesar himself says that they fought very bravely.
+
+¹ secum.
 
 ## Exercise 66 [A].
 
-When the king was told of this, he sent an officer2 with 150 soldiers to take the robbers and bring them to him. On arriving at the place where the robbers were, they found that a very strong camp had been made in a wood, and that all the approaches had been blocked by cutting down trees.3 At length, however, the place was storined, and the robbers being taken were put to death but the king pardoned the leader's son, a boy twelve years old.
+When the king was told of this, he sent an officer² with 150 soldiers to take the robbers and bring them to him. On arriving at the place where the robbers were, they found that a very strong camp had been made in a wood, and that all the approaches had been blocked by cutting down trees.³ At length, however, the place was storined, and the robbers being taken were put to death but the king pardoned the leader's son, a boy twelve years old.
+
+² Here 'centurio.' The centurion corresponds to the English 'captain' and also to 'sergeant.' If a superior officer (e.g. colonel) is meant use tribunus militum. If the commander of a separate division is meant (a lieutenant-general) use legatus,
+³ Abl. abs.
 
 ## Exercise 67 [B].
 
-When the crops began to ripen the general marched through the wood, making use of1 a guide whom his horsemen had taken prisoner. On his march he sent out scouts to discover the enemy's camp. They having returned informed him that the enemy with their wives and children and a large number of cattle had made a camp in the middle of the marsh, and were awaiting his arrival. When he learnt this he advanced so quickly that he reached their camp at midnight; and such was the bravery of the Romans that few of the Germans escaped in safety.
+When the crops began to ripen the general marched through the wood, making use of¹ a guide whom his horsemen had taken prisoner. On his march he sent out scouts to discover the enemy's camp. They having returned informed him that the enemy with their wives and children and a large number of cattle had made a camp in the middle of the marsh, and were awaiting his arrival. When he learnt this he advanced so quickly that he reached their camp at midnight; and such was the bravery of the Romans that few of the Germans escaped in safety.
+
+¹ usus (utor).
 
 ## Exercise 68 [B].
 
@@ -752,11 +794,18 @@ Calenus received a letter from Caesar, who told him that all the harbours and th
 
 ## Exercise 69 [B].
 
-The kings of England and Germany declared war against Philip,1 king of France. They felt sure that they would conquer him, on account of the number2 of their troops, and because they held the French forces in small esteem. Nevertheless he defeated them in a great battle at Bovinium. It was a desperate battle,3 and all showed the greatest bravery. It was observed that a certain priest had killed great numbers? of the enemy. The weapon which he used was an iron club. He had chosen this because he declared that a priest ought not to shed human blood,4 and by this means his enemies died from the violence of the blow.
+The kings of England and Germany declared war against Philip,¹ king of France. They felt sure that they would conquer him, on account of the number² of their troops, and because they held the French forces in small esteem. Nevertheless he defeated them in a great battle at Bovinium. It was a desperate battle,³ and all showed the greatest bravery. It was observed that a certain priest had killed great numbers? of the enemy. The weapon which he used was an iron club. He had chosen this because he declared that a priest ought not to shed human blood,⁴ and by this means his enemies died from the violence of the blow.
+
+¹ Philip=Philippus.
+² 'number,' 'numbers,' meaning ' great numbers,' is always multitudo.
+³ atrociter puguatum est.
+⁴ blood of men.
 
 ## Exercise 70 [B].
 
-The French king himself was the bravest knight in his army. He himself was wounded, and his horse was killed under him; but he rose immediately, and led his men again against the enemy. They charged a squadron of Germans, amongst whom was the emperor himself. The Germans, thinking5 that their emperor would be taken prisoner, came up to his help, and opened for him a way of escape. Thereupon Philip remarked to his men that they would only see the emperor's back on that day. After the flight of the emperor the French pursued his army, and defeated them with great slaughter.
+The French king himself was the bravest knight in his army. He himself was wounded, and his horse was killed under him; but he rose immediately, and led his men again against the enemy. They charged a squadron of Germans, amongst whom was the emperor himself. The Germans, thinking⁵ that their emperor would be taken prisoner, came up to his help, and opened for him a way of escape. Thereupon Philip remarked to his men that they would only see the emperor's back on that day. After the flight of the emperor the French pursued his army, and defeated them with great slaughter.
+
+⁵ Deponent-reor.
 
 ## Exercise 71 [A]
 
@@ -774,7 +823,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 ## Exercise 72 [B]
 
 1.  Is a man believed who has once lied?
-2.  The work is only hindered by such people.
+2.  The work is only hindered by such people.¹
 3.  Do not be persuaded by him.
 4.  Help was brought to the Romans when hard pressed.
 5.  No man is hurt by advice.
@@ -783,6 +832,8 @@ The French king himself was the bravest knight in his army. He himself was wound
 8.  What rich man is envied by the wise?
 9.  Be advised by us.
 10. You will be accused and not spared.
+
+¹ Here "such people" may be expressed by "tales' only. Very frequently people may be thus omitted or translated by "ii" : e.g. people who lie=ii qui mentiuntur. "Populus" is only a people in the political sense, a nation.
 
 ## Exercise 73 [A]
 
@@ -804,11 +855,13 @@ The French king himself was the bravest knight in his army. He himself was wound
 3.  Let us try to bring help to our friends.
 4.  Give me the books which I asked you for.
 5.  Come to me, and do not be afraid.
-6.  Do not let us help our enemies nor injure our friends.
+6.  Do not let us help our enemies or¹ injure our friends.
 7.  Let them remain where they are.
 8.  Do not despise the poor.
 9.  Let us die for our country.
 10. Do not let slip this opportunity.
+
+¹ In Latin 'nor.' The second half of the sentence is really negative.
 
 ## Exercise 75 [A]
 
@@ -842,17 +895,23 @@ The French king himself was the bravest knight in his army. He himself was wound
 
 ## Exercise 77 [A]
 
-1.  He ordered his men to break down the bridge which had been made over the Rhone.
-2.  He persuaded his men not to retreat, and warned them that the whole country was in the hands of the enemy.
+1.  He ordered his men¹ to break down the bridge which had been made over² the Rhone.
+2.  He persuaded his men not to retreat, and warned them that the whole country was in the hands³ of the enemy.
 3.  Caesar told his men that he was persuaded that the Germans had crossed the Rhine.
-4.  Cicero set out with the cavalry after telling the infantry to follow him in three days.
+4.  Cicero set out with the cavalry after telling⁴ the infantry to follow him in three days.
 5.  Our men were advised to advance with great caution, that the enemy might not attack them off their guard.
 6.  The prisoners begged Caesar to spare their lives, and send them back to their friends.
 7.  You will never persuade me that Romans will be conquered by barbarians.
 8.  So great was the determination of the prisoners that no one could compel them to speak.
 9.  Were you told that our men had been ordered to lay down their arms?
 10. Thereupon he dismissed the council, and ordered them not to assemble again.
-11. They knew that Caesar had forbidden them to attack the enemy, but in his absence they began to prepare for battle.
+11. They knew that Caesar had forbidden them to attack the enemy, but in his absence⁵ they began to prepare for battle.
+
+¹ Sui
+² in, with Abl.
+³ in potestate
+⁴ Abl. Abs. Remember that in this construction _impero_ cannot be used. See Rule 9.
+⁵ Abl. Abs.
 
 ## Exercise 78 [B]
 
@@ -874,11 +933,16 @@ Cincinnatus lived on the other side of the Tiber on a little farm, which he cult
 
 ## Exercise 80 [A]
 
-A certain king found one of his slaves sleeping and holding a letter in his hand. He read the letter, in which the boy’s mother thanked him because he had sent her money, and begged him to obey his master faithfully. The king put the letter back with gold into the boy’s hand, and then told another slave to wake him. At first the boy was frightened, when he saw the gold; but the king told him that good fortune often came to men when sleeping, and bade him give the gold to his mother, and say that the king greatly praised the mother of so good a son.
+A certain¹ king found one of his slaves sleeping and holding a letter in his hand. He read the letter, in which the boy’s mother thanked him because he had sent² her money, and begged him to obey his master faithfully. The king put the letter back with gold into the boy’s hand, and then told another slave to wake him. At first the boy was frightened, when he saw the gold; but the king told him that good fortune often came to men when sleeping, and bade him give the gold to his mother, and say that the king greatly praised the mother of so good a son.
+
+¹ Quidam, following its noun.
+² Verb in Plup. Subj.
 
 ## Exercise 81 [A]
 
-In the evening a spy was caught by the guards at the gate of the town. Being brought to the commander of the garrison he fell down, and besought him with tears to spare him. He said he could persuade many of the besieging army to desert, and promised to assassinate their general. But the commander said he did not wage war in that way; and he ordered the guards to conduct the man to the enemy’s camp. At the same time he sent a letter to the general, in which he advised him not to make use of traitors again—for (said he) they are always willing to betray their masters to save their own lives.
+In the evening a spy was caught by the guards at the gate of the town. Being brought to the commander of the garrison he fell down, and besought him with tears to spare him. He said he could persuade many of the besieging army to desert, and promised to assassinate their general. But the commander said he did not wage war in that way; and he ordered the guards to conduct the man to the enemy’s camp. At the same time he sent a letter to the general, in which he advised him not to make use of traitors again—for (said he) they are always willing³ to betray their masters to save their own lives.
+
+³ This sentence is an Indirect Statement; but the word for 'said he' will be omitted in Latin, being understood from 'advised.'
 
 ## Exercise 82 [B]
 
@@ -886,7 +950,10 @@ After this battle the Spartan commander sent a messenger to Sparta to tell the c
 
 ## Exercise 83 [B]
 
-On the next day the English advanced by forced marches with the intention of attacking the French off their guard. But the latter had already learnt by means of spies that the English were advancing, and had taken up their position on the top of a mound. When the English came within range, the archers began to shoot their arrows at the enemy. But the French general told his men not to fire back, but to allow the English to approach the bottom of the mound. When they were a few paces distant, he ordered his men not to wait any longer, but to get ready their arms. Then when the signal was given the French charged with such force that the English were routed and took to flight.
+On the next day the English advanced by forced marches with the intention of¹ attacking the French off their guard. But the latter had already learnt by means of² spies that the English were advancing, and had taken up their position on the top of a mound. When the English came within range, the archers began to shoot their arrows at the enemy. But the French general told his men not to fire back, but to allow the English to approach the bottom of the mound. When they were a few paces distant, he ordered his men not to wait any longer, but to get ready their arms. Then when the signal was given the French charged with such force that the English were routed and took to flight.
+
+¹ Eo consilio ut.
+² per.
 
 ## Exercise 84
 
@@ -943,26 +1010,31 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 5.  Not only the men, but also the women and children were banished from their country.
 6.  The soldiers were ordered to desist from the siege.
 7.  Even safety will not induce me to live far from the city.
-8.  This land abounds in all kinds of riches.
+8.  This land abounds in all kinds of¹ riches.
 9.  We were compelled not only to depart from the city, but also to give up all our goods.
 10. They were begged by all of us to set free the captives from prison.
 11. These people were rich both in cattle and money.
 12. He left the city in a passion.
+
+¹ all
 
 ## Exercise 89 [A]
 
 1.  The troops were few in number, but they fought with great bravery.
 2.  He replied in a loud voice that he would never yield.
 3.  They were told that the enemy were advancing in great disorder.
-4.  Having armed as many men as possible, they charged the enemy with the utmost fury.
-5.  I have been wrongfully accused of treachery by my private enemies.
+4.  Having armed as many men as possible,² they charged the enemy with the utmost fury.
+5.  I have been wrongfully accused of treachery¹ by my private enemies.
 6.  They said they had been accustomed to live in the fashion of their ancestors.
 7.  These traitors were rightly put to death with all speed.
 8.  He is younger than his brother, but excels him in wisdom and talents.
 9.  You, who are an Englishman by birth, ought to resist bad laws with all your power.
 10. I had not even heard that they were inferior to us in numbers.
-11. By your leave I shall ask him to come home with me as often as possible.
+11. By your leave I shall ask him to come home with me as often as possible.²
 12. Not even you, he said, will persuade me that Caesar was rightly killed.
+
+¹ Gen. of _crime_.
+² See note to Ex. 49.
 
 ## Exercise 90 [B]
 
@@ -985,7 +1057,13 @@ Numa being dead, Tullus Hostilius was made king. While he was king war arose bet
 
 ## Exercise 92 [A]
 
-Eurystheus then set Hercules the eleventh labour, which was harder than those which we have mentioned above. For he ordered him to take away the golden apples from the gardens of the Hesperides. These were nymphs of remarkable beauty, who lived in a distant land, and some golden apples had been entrusted to them by Juno. Many men had before this tried to take away these apples; but it was a difficult thing to do, for the garden in which the apples were was surrounded by a high wall on all sides. Moreover a dragon, which had a hundred heads, guarded the gate of the garden carefully by day and night.
+Eurystheus then set¹ Hercules the eleventh labour, which was harder than those which we have mentioned above. For he ordered him to take away the golden apples from the gardens of the Hesperides.² These were nymphs of remarkable beauty, who lived in a distant land, and some golden apples had been entrusted³ to them by Juno. Many men had before this tried to take away these apples; but it was a difficult thing to do,⁴ for the garden in which the apples were was surrounded by a high wall on all sides. Moreover a dragon,⁵ which had a hundred heads, guarded the gate of the garden carefully by day and night.
+
+¹ proponere.
+² Hesperides, -um.
+³ committere.
+⁴ factu (supine).
+⁵ draco, onis, m.
 
 ## Exercise 93 [A]
 
@@ -997,7 +1075,10 @@ The Romans, having set out about the third watch, advanced with great caution, f
 
 ## Exercise 95 [B]
 
-Louis could not at this time besiege Tunis, because he had not received reinforcements from his brother Charles, King of Sicily; and meanwhile his army was attacked by a disease which carried off the greater part of his soldiers in a few days. The king himself was seized with the disease, and felt that he would die of it. But, to sustain the courage of his soldiers, he performed all the duties of a king, and attended in every way to the safety of the camp. But at last he was compelled to remain within his tent, and before long² died, after telling his men never to abandon the siege.
+Louis¹ could not at this time besiege Tunis,¹ because he had not received reinforcements from his brother Charles,¹ King of Sicily; and meanwhile his army was attacked by a disease which carried off the greater part of his soldiers in a few days. The king himself was seized with the disease, and felt that he would die of it. But, to sustain the courage of his soldiers, he performed all the duties of a king, and attended in every way to the safety of the camp. But at last he was compelled to remain within his tent, and before long² died, after telling his men never to abandon the siege.
+
+1 Louis=Ludovicus. Charles=Carolus. For Tunis use Carthage.
+2 Before long=mox.
 
 ## Exercise 96 [B]
 
@@ -1005,11 +1086,18 @@ Nothing had been heard of the army for many months, and the citizens began to th
 
 ## Exercise 97 [B]
 
-As the people of Veii often made incursions for the sake of plunder, the Romans were scarcely able to defend their own territories. Their soldiers went home to their fields in the spring to sow, and in the autumn to gather the harvest, at which times the Veientines did a great deal of harm to their lands. At last the Fabii promised the Senate that they would be under arms the whole year, and undertake the whole war themselves. The Senate thanked them, and going out from Rome they made a camp near the river Cremera. For a little time they checked the Veientines, but at length they were surrounded, and slaughtered to a man.
+As the people of Veii¹ often made incursions² for the sake of plunder, the Romans were scarcely able to defend their own territories. Their soldiers went home to their fields in the spring to sow, and in the autumn to gather the harvest, at which times the Veientines did a great deal of harm to³ their lands. At last the Fabii promised the Senate that they would be under arms the whole year, and undertake the whole war themselves. The Senate thanked them, and going out from Rome they made a camp near the river Cremera. For a little time they checked the Veientines, but at length they were surrounded, and slaughtered to a man.
+
+¹ Veientes.
+² Abl. Abs.
+³ Harmed much.
 
 ## Exercise 98 [B]
 
-We set out from Moscow about the third watch, so that no disturbance might be excited by our friends. I never expected to see my brothers again. For thirty‑three days we marched along a road covered by snow a foot deep. Sometimes one of us fell down, and was unable to move further. Our guards did not try to urge him on, for they knew well that the wolves would have him for their prey before the next day. I now often envy those who were thus left on the road, and prefer death to the evils which daily press upon me. I am compelled to work, but that is the least of my ills; I am compelled to see the sufferings of the women who with us dared everything for the sake of liberty.
+We set out from Moscow⁴ about the third watch, so that no disturbance might be excited by our friends. I never expected to see my brothers again. For thirty‑three days we marched along a road covered by snow a foot deep. Sometimes one of us fell down, and was unable to move further. Our guards did not try to urge him on, for they knew well that the wolves would have him for⁵ their prey before the next day. I now often envy those who were thus left on the road, and prefer death to the evils which daily press upon me. I am compelled to work, but that is the least of my ills; I am compelled to see the sufferings of the women who with us dared everything for the sake of liberty.
+
+⁴ Moscova.
+⁵ pro, or simple acc. in apposition.
 
 ## Exercise 99
 
@@ -1021,7 +1109,7 @@ For the sake of pleasing our friends.
 For the sake of saving our friends.  
 In order to injure the Gauls.  
 In order to defeat the Gauls.  
-The signal for advance.
+The signal for advance.¹
 The signal for striking the camp.  
 The desire of having riches.  
 By dying.  
@@ -1029,6 +1117,8 @@ For the purpose of preserving the state.
 For the purpose of helping the state.  
 For saving the king.  
 For serving the king.
+
+¹ When the Gerund or Gerundive depends on a substantive, put it in the Genitive Case.
 
 ## Exercise 100 [A]
 
@@ -1075,13 +1165,16 @@ For serving the king.
 2.  To save his country a man ought always to face death.
 3.  How many of us are fit for commanding an army?
 4.  He gave the signal for crossing the river.
-5.  In our zeal for pursuing the cavalry we advanced too far.
-6.  For learning one needs talent and a great desire of knowledge.
+5.  In our zeal for pursuing the cavalry we advanced too far.¹
+6.  For learning one needs² talent and a great desire of knowledge.
 7.  We were sent for to defend the king from harm.
 8.  A great cause of crime is the desire of having wealth.
 9.  Officers were ordered to enter the citadel to receive the arms which the enemy had promised to give up.
 10. For the sake of filling the ships and sailing at once they bought merchandise at a great price.
 11. They are here to ask for pardon.
+
+¹ Comparative
+² _One needs_ = opus est.
 
 ## Exercise 104 [A]
 
@@ -1111,19 +1204,39 @@ For serving the king.
 
 ## Exercise 106 [A]
 
-Our men saw that they were surrounded on all sides; and no opportunity being left for retreating, they resolved to charge with all their might in the hope of striking terror into the enemy. They knew that they had been brought into these dangers by delaying too long before, and they hoped that by fighting bravely now they would force the enemy to give ground. Therefore, when the signal for advance was given, they ran forward with a loud shout against that part of the line which seemed weakest. The enemy were thrown into such confusion by this unexpected attack that their line was broken at once, and no one resisted our charge.
+Our men saw that they were surrounded on all sides; and no opportunity being left for retreating, they resolved to charge with all their might in the hope of striking terror into the enemy. They knew that they had been brought into these dangers by delaying too long¹ before, and they hoped that by fighting bravely now they would force the enemy to give ground. Therefore, when the signal for advance was given, they ran forward with a loud shout against that part of the line which seemed weakest.² The enemy were thrown into such confusion³ by this unexpected attack that their line was broken at once, and no one resisted our charge.⁴
+
+¹ Comparative of _diu_.
+² tenuis.
+³ _were so disturbed_ (perturbare).
+⁴ them charging.
 
 ## Exercise 107 [A]
 
-A messenger had been sent to France to ask for help, and to invite French troops to Ireland. Arms and money were promised for the purpose of assisting an Irish army. These were conveyed by a French ship, and a hundred men assembled on the shore to receive the arms which it was going to land. But in a storm two of their boats had been broken, and in repairing them time was wasted. Meanwhile, to scatter the rebels, a troop of horse had been sent out from Cork, at the sight of whom the rebels fled in all directions; and to effect their own escape the French sailors threw the arms overboard; they lie sunk in the harbour to this day.
+A messenger had been sent to France to ask for help, and to invite French troops to Ireland. Arms and money were promised for the purpose of assisting an Irish army. These were conveyed⁵ by a French ship, and a hundred men assembled on the shore to receive the arms which it was going to land.⁶ But in a storm two of their boats had been broken, and in repairing them time was wasted.⁷ Meanwhile, to scatter the rebels, a troop of horse had been sent out from Cork, at the sight of whom⁸ the rebels fled in all directions; and to effect their own escape the French sailors threw the arms overboard;⁹ they lie sunk¹⁰ in the harbour to this day.
+
+⁵ _convey by sea_ =transportare.
+⁶ expositura erat.
+⁷ Use Historic Present.
+⁸ Abl. Abs.
+⁹ e navi projicere.
+¹⁰ gubmersus.
 
 ## Exercise 108 [B]
 
-The French general was unwilling to attack us at close quarters, because his troops were inexperienced in battle, and he thought they would fight best when sheltered by ramparts. Moreover, three years before his troops had been unable to resist the English hand to hand, but having been withdrawn into the town, had defended the walls obstinately. The recollection of that time and the desire to prolong the war induced him to remain where he was. However, in order to give the Belgians an opportunity of deserting us, he sent out troops of cavalry as far as our outposts. But for fear of this we employed no Belgians as sentinels. For throughout the whole year we were expecting every day they would desert us.
+The French general was unwilling to attack us at close quarters, because his troops were inexperienced in battle, and he thought they would fight best when sheltered¹ by ramparts. Moreover, three years before his troops had been unable to resist the English hand to hand, but having been withdrawn into the town, had defended the walls obstinately. The recollection of that time and the desire to prolong the war induced him to remain where he was. However, in order to give the Belgians² an opportunity of deserting us, he sent out troops of cavalry as far as our outposts. But for fear of this we employed no Belgians as sentinels. For throughout the whole year we were expecting every day they would desert us.
+
+¹ tectus=covered, in the sense of sheltered; opertus=covered, in the sense of hidden.
+² Belgae.
 
 ## Exercise 109 [B]
 
-The Athenians hoped that a Spartan army would march into Boeotia, and had taken no measures to save their families and property. Therefore they saw with the utmost fear and dismay that the Barbarians were advancing with all their forces for the sake of attacking their city. It was evident that in six days Xerxes would be at Athens, and this seemed a very short time for removing the population of a whole city. But they knew that it was of the greatest importance to them to accomplish this, and before his arrival they had safely removed all who were willing to leave their homes. Some were taken to Aegina, others to Troezen; but many could not be induced to proceed farther than Salamis.
+The Athenians hoped that a Spartan army would march into Boeotia, and had taken no measures³ to save their families and property. Therefore they saw with the utmost fear and dismay that the Barbarians were advancing with all their forces for the sake of attacking their city. It was evident that in six days Xerxes would be at Athens, and this seemed a very short time for removing the population of a whole city. But they knew that it was of the greatest importance⁴ to them to accomplish this, and before his arrival they had safely removed all who were willing to leave their homes. Some were taken to Aegina, others to Troezen;⁵ but many could not be induced to proceed farther than Salamis.⁶
+
+³ 'had done nothing.'
+⁴ Maximi interesse =to be of the greatest importance.
+⁵ Troezen, Gen. Troezenis f.
+⁶ Salamis, Gen. Salamiuis, Acc. Salamina f.
 
 ## Exercise 110 [A]
 
@@ -1195,7 +1308,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 ## Exercise 115 [B]
 
 1.  He wants to know what I am going to do tomorrow.
-2.  It matters a great deal whether they intend to send out cavalry or infantry.
+2.  It matters a great deal¹ whether they intend to send out cavalry or infantry.
 3.  We did not know whether the enemy were going to attack in the evening or late in the night.
 4.  It was doubtful what news the messenger would bring.
 5.  Let us ask if one regiment will be enough.
@@ -1204,6 +1317,8 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 8.  It makes a great difference whether he bought the horse at a low price or not.
 9.  Have you heard if he has been persuaded to return?
 10. It is uncertain whether he will hinder us more than he will help us.
+
+¹ maximi interest. 
 
 ## Exercise 116 [A]
 
@@ -1232,15 +1347,24 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 
 ## Exercise 118 [A]
 
-It is said that a certain prophetess brought nine books to Tarquin, king of Rome, and asked him if he wished to buy them. The king asked for what price she was willing to sell them; to which she replied that she would sell them for three hundred pieces of gold. The woman went away, but afterwards she returned with six books. Tarquin asked where she had left the others, and she replied that she had burnt them, but that she would sell him these for the same price. Tarquin would not buy them, and she again left him. But once more she returned with only three books, and asked whether he was willing to buy these at the same price or not.
+It is said that a certain prophetess brought nine books to Tarquin,¹ king of Rome, and asked him if he wished to buy them. The king asked for what price she was willing to sell them; to which she replied that she would sell them for three hundred pieces of gold. The woman went away, but afterwards she returned with six books. Tarquin asked where she had left the others, and she replied that she had burnt them, but that she would sell him these for the same price. Tarquin would not buy them, and she again left him. But once more she returned with only three books, and asked whether he was willing to buy these at the same price or not.
+
+¹ Tarquinus.
 
 ## Exercise 119 [A]
 
-The king, who wondered why she had returned so often, now asked his senate whether he ought to keep them. They first asked him what sort of books they were, and if the prophetess had shown them to him. The king replied that she had said nothing, but that she had burnt six books out of nine, and now offered three at the same price. It seemed doubtful to the senators what they ought to do, but at last they advised the king to buy the books. Then the woman, having received the money, advised the Romans to keep the books very carefully, and went away.
+The king, who wondered why she had returned so often, now asked his senate whether he ought to keep them. They first asked him what sort of books they were, and if the prophetess had shown them to him. The king replied that she had said nothing, but that she had burnt six books out of² nine, and now offered three at the same price. It seemed doubtful to the senators what they ought to do, but at last they advised the king to buy the books. Then the woman, having received the money, advised the Romans to keep the books very carefully, and went away.
+
+² de.
 
 ## Exercise 120 [A]
 
-The story is told of King Tarquin that he once determined to add new companies to the Roman knights. Attius the augur said it could not be done. Moved by anger the king demanded that he should show by a sign what the gods wished. Attius replied that he would tell the king what he had in his mind. But Tarquin said, “Tell me rather whether that which I have in my mind can be done.” “It can be done,” said Attius. Then the king bade him cut a whetstone in two, for he said he was thinking of that. Without any delay (so they relate) Attius cleft it with a razor.
+The story is told of King Tarquin that he once determined to add new companies¹ to the Roman knights. Attius the augur said it could not be done. Moved by anger the king demanded that he should show by a sign what the gods wished. Attius replied that he would tell the king what he had in his mind. But Tarquin said, “Tell me rather whether that which I have in my mind can be done.” “It can be done,” said Attius. Then the king bade him cut a whetstone² in two, for he said he was thinking of that. Without any delay (so they relate³) Attius cleft it with a razor.⁴
+
+¹ centuriae.
+² cos, cotis .f
+³ ut ferunt.
+⁴ novacula.
 
 ## Exercise 121 [B]
 
@@ -1248,11 +1372,18 @@ In the following year Cleon was sent to Macedonia to recover the cities which ha
 
 ## Exercise 122 [B]
 
-The prisoner was brought before the king, who asked him where he had concealed his money. To this the man replied that he had indeed been rich once, but that now all his money had been taken away from him by the soldiers, and that nothing was left. The king asked the soldiers if this was true, but they all declared that they had not taken the gold, and did not know where the prisoner kept it. Then the king said that he would discover by means of tortures who was telling the truth; but the prisoner, being overcome by fear, asked if the king would pardon him when the money was given up. The king promised to do this, whereupon the prisoner said he would show them at once where he had carried the money.
+The prisoner was brought before the king, who asked him where he had concealed his money. To this the man replied that he had indeed been rich once, but that now all his money had been taken away from him by the soldiers, and that nothing was left. The king asked the soldiers if this was true, but they all declared that they had not taken the gold, and did not know where the prisoner kept it. Then the king said that he would discover by means of tortures who was telling the truth; but the prisoner, being overcome by fear, asked if the king would pardon him when the money was given up.¹ The king promised to do this, whereupon the prisoner said he would show them at once where he had carried the money.
+
+¹ abl. abs.
 
 ## Exercise 123 [B]
 
-I once went to the house of a celebrated man, who had formerly been a friend of mine, to ask if he would help me in a matter which I had in hand. The servant said he was not at home, but as I had caught sight of my friend, I knew the fellow lied. Some days after the great man came to my house, and I, having no servant, opened the door to him myself. On seeing him I exclaimed, with unmoved countenance, “He is not at home.” In astonishment my friend asked whether I was mad. To which I replied, “I believed your servant when he told lies about you. Are you not willing to believe me when I speak about myself?”
+I once went to the house of a celebrated man, who had formerly been a friend of mine, to ask if he would help me in a matter which I had in hand.² The servant said he was not at home, but as I had caught sight of my friend, I knew the fellow³ lied. Some days after the great man⁴ came to my house, and I, having no servant,⁵ opened the door to him myself. On seeing him I exclaimed, with unmoved countenance, “He is not at home.” In astonishment my friend asked whether I was mad. To which I replied, “I believed your servant when he told lies about you. Are you not willing to believe me when I speak about myself?”
+
+² undertaken (suscipere).
+³ homo-often contemptuous.
+⁴ ille.
+⁵ 'to whom there was no servant.'
 
 ## Exercise 124 [A]
 
@@ -1260,21 +1391,31 @@ It was the custom of the Falisci to send their children to a schoolmaster to liv
 
 ## Exercise 125 [A]
 
-The news reached Rome that their army had been defeated, and that of the two consuls who were in command one had been killed and the other was a fugitive. At first the whole city was full of panic and grief. But soon the Senate assembled to take measures for the safety of the State. They decreed that those who were able to fight should go with the women and children to the capitol; but they declared that they themselves, who were old men and unable to bear arms, would remain in the city. The Gauls found these old men sitting in silence, and clothed in their state robes. At first they wondered greatly, but finally they approached the Senators, and a soldier stroked the long beard of one of them with his hand. The Senator, being enraged, struck the man, whereupon the rest of the Gauls slew all the Senators.
+The news reached¹ Rome that their army had been defeated, and that of the two consuls who were in command one had been killed and the other was a fugitive. At first the whole city was full of panic and grief. But soon the Senate assembled to take measures² for the safety of the State. They decreed that those who were able to fight should go with the women and children to the capitol; but they declared that they themselves, who were old men and unable to bear arms, would remain in the city. The Gauls found these old men sitting in silence, and clothed in their state robes.³ At first they wondered greatly, but finally they approached the Senators, and a soldier stroked the long beard of one of them with his hand. The Senator, being enraged, struck the man, whereupon the rest of the Gauls slew all the Senators.
+
+¹ to bring news=affere nuntium.
+² =consult.
+³ toga laticlavia.
 
 ## Exercise 126 [B]
 
-Solon, the wisest of the Athenians, went once to visit Croesus at Sardis. You have all heard how these two men became friends, and discussed many things together. But the story is worthy of being told again. Croesus considered that that man was most fortunate who had great power and riches, and who could do whatever he wished; and he thought that he himself was such a man. He therefore showed Solon all his gold and silver, and told him how many nations he ruled. He then asked him whom he considered the happiest of mortals. He was sure that Solon would answer that he who ruled the city of Sardis and such a great kingdom was the happiest. But Solon replied that two young men, Cleobis and Biton, were the most happy.
+Solon, the wisest of the Athenians, went once to visit Croesus at Sardis.¹ You have all heard how these two men became friends, and discussed many things together.² But the story is worthy of³ being told again. Croesus considered that that man was most fortunate who had great power and riches, and who could do whatever he wished; and he thought that he himself was such a man. He therefore showed Solon all his gold and silver, and told him how many nations he ruled. He then asked him whom he considered the happiest of mortals. He was sure that Solon would answer that he who ruled the city of Sardis and such a great kingdom was the happiest. But Solon replied that two young men, Cleobis and Biton, were the most happy.
+
+¹ Sardes pl. Gen. Sardium. Solon, Solonis.
+² 'inter se,' which often translates words like 'together,' 'mutually,' 'one another,' etc.
+³ digna quae, with subjunctive.
 
 ## Exercise 127 [B]
 
-Croesus said he had never heard of these men, and asked Solon who they were. The latter replied that they were two youths of great piety, whose mother was a priestess; that when she wished to go to the temple the oxen which used to draw her cart had died, and that her two sons had drawn her there instead of the oxen; that therefore she had prayed to the gods to give them their best gift, and in the night they had both died. By this story Solon wishes to prove that those who are alive must not be accounted happy, since all are liable to misfortune; but that those who have met an honourable death are indeed the happiest.
+Croesus said he had never heard of these men, and asked Solon who they were. The latter replied that they were two youths of great piety, whose mother was a priestess; that when she wished to go to the temple the oxen which used to draw her cart had died, and that her two sons had drawn her there instead of the oxen; that therefore she had prayed to the gods to give them their best gift, and in the night they had both died. By this story Solon wishes to prove that those who are alive must not be accounted¹ happy, since all are liable to misfortune; but that those who have met² an honourable death are indeed the happiest.
+
+¹ to be reckoned, thought=duci or haberi.
+² obire.
 
 ## Exercise 128 — Impersonal Verbs  
 
 1. In using oportet there is the same difficulty as in using debeo. In English we say, "I ought to have come," expressing the Perfect tense in the Infinitive. In Latin the tense must be expressed in the modal verb, not in the following Infinitive; e.g. Debui venire or oportuit me venire. Tlere is the same difference in the use of possum ; e.g. Potui hoc facere = I might have done this.
 2. Remember that se refers to the subject of the sentence. An impersonal verb has no subject, and therefore cannot be followed directly by se; e.g. He was ashamed=eum puduit. If, however, the impersonal is used in an indirect statement se must be used for the third person, because it refers to the subject of the verb of saying; e.g. Dixit se pudere = He said he was ashamed. See Rule 7, p. 40.
-
 
 - I repented of my crime.
 - Do you pity the prisoner?
@@ -1327,7 +1468,7 @@ Croesus said he had never heard of these men, and asked Solon who they were. The
 
 1. Through fear of death the bravest men forget their courage.  
 2. He is ignorant of many things which he ought to be skilled in.  
-3. Looking after other people’s affairs is difficult.  
+3. Looking after² other people’s affairs is difficult.  
 4. I pitied them all as they came back from the battle.  
 5. Skill in addressing his soldiers was necessary for a Roman general.  
 6. The remembrance of his past life brings one man joy, another pain.  
@@ -1338,11 +1479,13 @@ Croesus said he had never heard of these men, and asked Solon who they were. The
 11. Under the emperors Romans were made consuls for the sake of honour, not for the sake of administering public affairs.  
 12. My knowledge of Caesar made me eager for his friendship.
 
+² Use the noun cura.
+
 ## Exercise 132 [B]
 
 1. No one will repent of a life well spent.  
 2. You have a chief mindful of others, forgetful of self.  
-3. Pity a man suffering undeservedly.  
+3. Pity a man suffering undeservedly.¹
 4. He was charged with treachery.  
 5. His love for his country is more powerful than his fear of death.  
 6. The best men are fonder of doing than of speaking.  
@@ -1352,6 +1495,8 @@ Croesus said he had never heard of these men, and asked Solon who they were. The
 10. I hope you will not forget your country through your eagerness to see new things.  
 11. Caesar’s friendship for me I value very highly.  
 12. These barbarians seem skilled in making bridges.
+
+¹ unworthy things.
 
 ## Exercise 133 [A]
 
