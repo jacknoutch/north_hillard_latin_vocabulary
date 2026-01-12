@@ -137,3 +137,48 @@ e.g.
 - Tria millia passuum progressus. _Having advanced three miles._
 - Tredecim pedes altus (latus, longus). _Thirteen feet high (broad, long)._
 - Castra ab urbe aberant millia passuum ducenta. _The camp was distant from the city 200 miles._
+
+## Ablatives of Comparison, Quality, Measure of Difference; Words Governing the Ablative
+
+1. Quid mollius undā?¹ _What is softer than water?_
+2. Stătūrā fuit humili. _He was of low stature._
+3. Multis partibus/multo major est. _It is much greater._
+
+¹ The Abl. of Comparison is only to be used where two things are directly compared with one another by means of a Comparative Adjective. Otherwise use quam. The case of the noun following quam will be the same as that of the noun corresponding to it in the first part of the sentence.
+
+e.g.
+
+- Facilius est mihi quam tibi. _It is easier for me than for you._
+- Balbi domus quam Caii altior est. _Balbus' house is higher than Caius'_
+
+Compare with these-
+
+- Facilior est somnus labore. _Sleep is easier than toil._
+- Domus muro altior est. _The house is higher than the wall._
+
+In these sentences we have direct comparison between the two things denoted by the nouns, and can therefore use the Ablative of Comparison.
+
+## Indirect Statement
+
+In the sentence "He said many things" the verb governs a noun as direct object. In the sentence "He said that I was unwise" a clause has taken, the place of a direct object. When in this way a sentence becomes the object of a verb of "saying" or "thinking" we call it an "indirect statement."
+
+When the verb of 'saying' or 'thinking' is in the Passive the 'indirect statement' becomes the subject, e.g. nuntiatur hostem adesse="_that the enemy are near_" is announced. So with 'impersonals' like constat (_it is agreed_).
+
+**Rule 6.** When a statement is made dependent on a verb of "saying" or "thinking" the subject of the dependent clause is put in the Accusative, and the verb in the Infinitive.
+
+Verbs of "saying" and "thinking" include all such verbs as learn, perceive, kenow. .hear, pretend, inform, hope, promise, threaten-of which hope, promise, threaten are always followed by the Future Infinitive. The subject of the
+Infinitive must always be expressed.
+
+"I deny " and "I say that. . not" are both translated in Latin by nego. Never use dico ... non.
+
+### Examples
+
+| Direct Statement | Indirect Statement. |
+|------------------|---------------------|
+| Ille vir bonus est. _He is a good man._ | Putamus illum virum esse bonum. _We think he is a good man._ |
+| Legiones sequentur. _The legions will follow._ | Dixerunt legiones secturas esse. _They said the legions will follow._ |
+| Copiae advenerunt. _Forces have arrived._ | Senserunt copiae advenisse. _They perceived that forces had arrived._ |
+| Urbs non capietur. _The city will not be taken._ | Negant urbem captum iri.¹ _They say that the city will not be taken. |
+| Regrediar. _I shall return._ | Spero me regressurum esse. _I hope to return._ |
+
+¹ For the explanation of this construction see p. 82, note 1.
