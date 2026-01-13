@@ -316,3 +316,141 @@ These Datives are never qualified by an epithet, except the simplest of quantity
 
 The Ablative of Manner must have an epithet, except in a few words: e.g. jure (_rightly_), injuria (_wrongly_), fraude (_treacheronsly_), silentio (_in silence_), etc. If there is no epithet use cum: e.g. cum diligentia naves armare.
 
+## Gerunds and Gerundives.
+
+Distinguish the Gerund and Gerundive.
+
+1. The Gerund is a Verbal Noun of the Active Voice, corresponding to the English verbal nouns in -ing; not to be confused with the Present Participle in -ing which is really an Adjective.
+2. The Gerundive is a Verbal Adjective of the Passive Voice.
+
+**Rule 13.** A. The oblique cases of the Gerund are used simply as the cases of a Noun. But the Accusative can only be used governed by a Preposition.
+
+e.g.
+
+- Acc. natus ad regendum = _born to rule._
+- Gen. cupidus discendi = _desirous of learning._
+- Dat. studuit discendo = _he was devoted to learning._
+- Abl. (in) discendo sapientior fio = _by learning I become wiser._
+
+When the Gerund is in the Genitive case or the Ablative without a Preposition it may take a direct object.¹
+
+e.g. 
+- Gen. pacem petendi causa = _for the sake of seeking peace._
+- Abl. scribendo fabulas = _in writing stories._
+
+B. But when the Verbal Noun governs a direct object² instead of the Gerund we generally use the Gerundive. This attracts the object into its own case, but agrees with the object in number and gender. This construction is known as "Gerundive Attraction."
+
+e.g.
+- Acc. ad pacem petendam = in order to ask for peace.
+- Gen. pacis petendae causa = for the sake of asking for peace.
+- Dat. legibus mutandis studuit = he was eager for changing the laws.
+- Abl. in scribendis fabulis = in writing stories.
+
+¹ Use the Gerund especially where by using the Gerundive we should get two genitives ending in -orum or -arum together.
+
+² The Gerundive being Passive, none but transitive verbs (governing a direct object in the Acc.) can have a Gerundive. But utendus, potiundus, fruendus, can be used from utor, potior, fruor.
+
+## Supines.
+
+Besides the Gerund there is another Verbal Noun in Latin called the Supine. It only has two cases-an Acc. in -um, and an Abl. in -u.
+
+**Rule 14.** The Supine in -um can only be used to express purpose after Verbs of motion. It may govern an object.¹
+
+The Supine in -u can only be used after Adjectives,² and corresponds to an Infinitive following an Adjective in English, e.g. "a question hard to answer."
+
+### Examples
+
+- Abii dormitum = I went away to sleep.
+- Venerunt pacem petitum = They came to ask for peace.
+- Mirabile dictu = wonderful to relate.
+
+¹ The Future Infinitive Passive is made np of the Supine with iri, so that in the sentence 'Dixerunt nos interfectum iri,' interfectum really governs nos, being a supine of purpose after iri.
+² Also certain indeclinable nouns used as adjectives, e.g. fas (right), nefas (wrong).
+
+## Direct Questions¹
+
+**Rule 15.** Direct Questions may be asked without any special Interrogative word, but they are frequently introduced
+- (a) by Interrogative Pronouns or Adverbs, such as quis, who? quando,² when? ubi, where?
+- (b) by Interrogative Particles. These Particles are in Single Questions -ne (enclitic), nonne (expecting answer "yes"), num (expecting answer "no"); in Double Questions utrum ... an, -ne ... an, utrum . .. annon.
+
+### Examples
+
+- (a) Caesarne ad castra advenit? _Has Caesar reached the camp?_
+- (b) Nonne Caesar ad castra advenit? _Has not Caesar reached the camp? Surely Caesar has reached the camp?_
+- (c) Num Caesar ad castra advenit? _Caesar has not reached the camp, has he?_³
+- (d) Utrum Caesar (or Caesarne) ad castra advenit annon? _Has Caesar reached the camp or not?_
+
+[N.B .- Do not append the -ne to an unemphatic word.]
+
+¹ This rule is inserted here for convenience of revision before doing Indirect Questions.
+
+² When in questions is never quum but quando. Notice also that where is often used in English for whither, and in this sense must be translated by quo.
+
+³ Notice the form of the English. "Has he?" "is he?" "isn't he?"' etc., is only our way of showing what answer we expect, and is fully represented in Latin by the nonne or num at the beginning of the sentence.
+
+## Indirect Questions
+
+In the sentence "He asked what I was doing" the clause 'what I was doing' is really the object of the verb 'asked.' In the sentence "What he is doing is uncertain" the clause 'what he is doing' is really the subject of 'is.'
+
+When a direct question becomes thus the subject or object of a verb we call it an Indirect Question.
+
+**Rule 16.** A clause expressing an Indirect Question in Latin always has its verb in the Subjunctive.
+
+The principal verb may be any such word as ask, know, doubt, consider, tell, etc.
+
+In the above examples it will be noticed that we supply a Future Subjunctive by what is called the periphrastic conjugation, i.e., the Fut. Participle with sim in Primary, essem in Historic sequence.
+
+### Primary Tenses
+
+| Main clause | Question word | Subordinate clause|
+|---------------------|------|-------------------|
+| Rogat¹ <br> _He asks_ | quid <br> _what_ | agam. <br> _I am doing._ |
+| Rogabit <br> _He will ask_ | quid <br> _what_ | acturus sim. <br> _I am going to do._ |
+| Rogavit <br> _He has asked_ | quid <br> _what_ | egerim.² <br> _I did._ |
+
+### Historic Tenses
+
+| Main clause | Question word | Subordinate clause|
+|---------------------|------|-------------------|
+| Rogabat <br> _He was asking_ | quid <br> _what_ | agerem. <br> _I was doing._ |
+| Rogavit <br> _He asked_ | quid <br> _what_ | acturus essem. <br> _I was going to do._ |
+| Rogaverat <br> _He had asked_ | quid <br> _what_ | egissem. <br> _I had done._ |
+
+e.g.
+
+- Nescio quando venturi sint. _I do not know when they will come._
+- Nesciebam quando venturi essent. _I did not know when they would come._
+
+The interrogative particles are the same as in direct questions (whether single or double). But in indirect questions num does not necessarily expect the answer 'no,' and necne must be used for annon. "If" meaning "whether" introducing a question must never be translated si, but in single questions by num, in double questions by utrum/-ne... an. "When" in questions is quando, never quum.
+
+¹ The imperative is a Primary tense:
+
+| Main clause | Question word | Subordinate clause|
+|---------------------|------|-------------------|
+| Roga <br> _Ask_ | quid <br> _what_ | agat. <br> _he is doing._ |
+| " | " | acturus sit. <br> _he is going to do._ |
+| " | " | egerit. <br> _he did._ |
+
+² The PErfect represents a completed action. Therefore use the Perf. Subj. when the governing verb is primary and the dependent verb relates to an action completed in past time, e.g. Nescio quodmodo mortuus sit = _I do not know how he died._
+
+## Subordinate Clauses in Indirect Statement, etc.
+
+**Rule 17.** All clauses which are subordinate to an indirect statement or command or question have their verbs in the subjunctive.
+
+### Example
+
+Ariovistus respondet se non in eas partes Galliae venire audere quas Caesar possideret.
+
+_Ariovistus replied that he did not dare to come into those parts of Gaul which Caesar held._
+
+## Impersonal Verbs
+
+1. In using oportet there is the same difficulty as in using debeo. In English we say, "_I ought to have come,_" expressing the Perfect tense in the Infinitive. In Latin the tense must be expressed in the modal
+verb, not in the following Infinitive; e.g. Debui venire or oportuit me venire. There is the same difference in the use of possum ; e.g. Potui hoc facere = _I might have done this_.
+
+2. Remember that se refers to the subject of the sentence. An impersonal verb has no subject, and therefore cannot be followed directly by se; e.g. _He was ashamed_ = eum puduit. If, however, the impersonal is used in an indireet statement se must be used for the third person, because it refers to the subject of the verb of saying; e.g. Dixit se pudere = _He said he was ashamed_. See Rule 7, p. 40.
+
+## Genitive Case.¹
+
+¹ An earlier exercise on the Genitive will be found on page 50.
+
